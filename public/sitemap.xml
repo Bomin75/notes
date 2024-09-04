@@ -2,17 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/notes/bioa01/</loc>
+    <loc>https://bomin75.github.io/notes/bioa01/</loc>
     <lastmod>2024-09-04T17:55:34-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/bioa01/evolution/</loc>
+    <loc>https://bomin75.github.io/notes/</loc>
     <lastmod>2024-09-04T17:55:34-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/</loc>
-    <lastmod>2024-09-04T17:55:34-04:00</lastmod>
+    <loc>https://bomin75.github.io/notes/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/notes/tags/</loc>
+    <loc>https://bomin75.github.io/notes/tags/</loc>
   </url>
 </urlset>
