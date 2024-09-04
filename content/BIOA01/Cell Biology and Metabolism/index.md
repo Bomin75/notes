@@ -1,5 +1,4 @@
 +++
-title = 'Cell Biology and Metabolism'
-date = 2024-09-04T16:04:00-04:00
+title = '2. Cell Biology and Metabolism'
 draft = false
 +++
