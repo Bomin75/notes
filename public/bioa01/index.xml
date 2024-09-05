@@ -8,18 +8,18 @@
     <language>en-us</language>
     <atom:link href="https://bomin75.github.io/notes/bioa01/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cell Biology and Metabolism</title>
-      <link>https://bomin75.github.io/notes/bioa01/cell-biology-and-metabolism/</link>
-      <pubDate>Wed, 04 Sep 2024 18:04:00 -0400</pubDate>
-      <guid>https://bomin75.github.io/notes/bioa01/cell-biology-and-metabolism/</guid>
-      <description></description>
+      <title>1. Evolution</title>
+      <link>https://bomin75.github.io/notes/bioa01/evolution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bomin75.github.io/notes/bioa01/evolution/</guid>
+      <description>Life displays great diversity with 10 million or more species. The unity and the diversity of life are explained by evolution.&#xA;Introduction to Evolution Variation in Populations Why is Variation Beneficial for Evolution? Variation in populations plays a key role in natural selection Natural seletion depicts that the variants with characteristics that are best applicable for an environment in terms of growth and reproduction will contribute the most to the next generation.</description>
     </item>
     <item>
-      <title>Evolution</title>
-      <link>https://bomin75.github.io/notes/bioa01/evolution/</link>
-      <pubDate>Wed, 04 Sep 2024 17:42:08 -0400</pubDate>
-      <guid>https://bomin75.github.io/notes/bioa01/evolution/</guid>
-      <description>Evolution </description>
+      <title>2. Cell Biology and Metabolism</title>
+      <link>https://bomin75.github.io/notes/bioa01/cell-biology-and-metabolism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bomin75.github.io/notes/bioa01/cell-biology-and-metabolism/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
