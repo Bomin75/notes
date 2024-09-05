@@ -1,6 +1,9 @@
 +++
 title = '1. Evolution'
 draft = false
+toc = true
+math = true
+bold = true
 +++
 
 Life displays great diversity with 10 million or more species. The unity and the diversity of life are explained by **evolution**.
