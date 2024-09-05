@@ -114,8 +114,45 @@ Note that both genotype and environment contribute to the phenotype of an indivi
 
 ## Measuring Genetic Variation
 
+The goal of **population genetics** is to **infer the evolutionary process** from patterns of genetic variation in nature. Thus, the rates of occurrence of alleles in populations play a key role.
+
+### Allele Frequencies
+
+#### What is Allele Frequency?
+
+- The **allele frequency** of an allele _x_ is the number of _x_'s present in the population divided by the total number of alleles e.g.
+  - Given 50% _aa_, 25% _Aa_, 25% _AA_, an allele frequency of _a_ is $$(2 \times 50) + 25 = 125, \frac{125}{200}=62.5\%$$
+    an allele frequency of _A_ is
+    $$25 + (2 \times 25) = 75, \frac{75}{200}=37.5\%$$
+    Note that the denominator is $200$ as pea plant is diploid
+
+### Measurments of Genotype and Allele Frequencies
+
+#### Observable Traits
+
+- Measurment through observable traits is possible if phenotype = genotype
+- Rarely observed due to large number of encoding genes for a trait and because not only genotypes, but also environment affects phenotypes
+- Until 1960s, we were only able to study phenotypes that are encoded by a single gene e.g. ABO blood group, colouring of two-spot ladybug _Adalia bipuncatata_
+  ![singleGeneVariation](./Single_Gene_Variation.png)
+
+#### Gel Electrophoresis
+
+- **Gel Electrophoresis** separates segments of proteins according to their charge and their size
+- An individual with **heterozygotic** mutation that eventually alters a protein will produce two distinct bands in the gel
+- Limiation: can detect only mutations that alter protein structures
+
+#### DNA Sequencing
+
+- Capable to detect **silent mutations**
+- How to:
+  1. Collect a population sample
+  2. Count the number of occurrences of a given mutation
+- e.g. Consider single nucleotide [polymorphism](#polymorphism)
+
 ## Terminologies
 
 <a id="gene-pool"></a>**gene pool**: all the alleles present in all individuals in a population or in a species e.g. alleles for skin colour, hair type, eye colour, etc
 
 <a id="populations"></a>**populations**: all the individuals of a given species that live and reproduce in the same geograhpical area; one of several interbreeding groups of organisms of the same species living in the same geographical area
+
+<a id="polymorphism"></a>**polymorphism**: variable nucleotide positions
