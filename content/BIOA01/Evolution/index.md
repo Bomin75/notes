@@ -59,7 +59,7 @@ Life displays great diversity with 10 million or more species. The unity and the
 
 - Hypothesis: Any bacterium wiht a random mutation that increases its ability to take up glucose will reproduct at a faster rate than the other, thereby demonstrating evolution in a bacterial population.
 
-- Experiment: Cells of _E.Coli_ are frozen at \\(-80\degreeC\\) are kept suspended in animation, surviving without any biological processes. Starting bacteria are labeled **Ancestral** and the bacterial populations taken from the environment with limiting amounts, every 500 generations, of glucose were labeled **Descendant**. Then, compared the rate of growth of these two populations.
+- Experiment: Cells of _E.Coli_ are frozen at \\\\(-80\degreeC\\\\) are kept suspended in animation, surviving without any biological processes. Starting bacteria are labeled **Ancestral** and the bacterial populations taken from the environment with limiting amounts, every 500 generations, of glucose were labeled **Descendant**. Then, compared the rate of growth of these two populations.
 
 - Results: The growth rate of the **Descendant** bacterial populations became much steeper than the rate of the **Ancestral** in the given environment.
 
