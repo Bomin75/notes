@@ -149,6 +149,114 @@ The goal of **population genetics** is to **infer the evolutionary process** fro
   2. Count the number of occurrences of a given mutation
 - e.g. Consider single nucleotide [polymorphism](#polymorphism)
 
+## Evolution and Hardy-Weinberg Equilibrium
+
+### Evolution
+
+#### What is Evolution?
+
+- **Evolution** is a change in the frequency of an allele or a genotype throughout generations. Note evolution can occur without a change in allele frequency if genotype frequency changes
+  > Populations evolve, not individuals
+
+### Hardy-Weignberg Equilibrium
+
+#### When does evolution come to halt?
+
+- Changes do not occur once **Hardy-Weinberg equilibrium** is reached
+- **Hardy-Weignberg equilibrium** specifies the relationship between [alleleFrequencies](#allele-frequency) and [genotypeFrequencies](#genotype-frequency) when the following conditions are met:
+  1. **No Nautral Selection**: No difference in the survival and reproductive success of individuals with different genotypes e.g. Given _a_ is a [lethal](#lethal) recessive mutation, all _aa_ individuals will die -> decrease in frequency of _a_ allele -> increase in frequency of _A_ allele, representing the survival success
+  2. **Infinite Population**: this equilibrium holds only for infinitely large populations to neglect [genetic](#genetic-drift) [drift](#genetic-drift)
+  3. **No Gene Flow**: Populations are not added to or subtracted from by migration
+  4. **No Mutations**: e.g. If _A_ alleles mutate into _a_ alleles, there still exist changes in genetic makeup
+  5. **Indiscriminate Mating**: mate choice made regardless of genotype
+
+#### Hardy-Weignberg Principle
+
+- To ask whether a population is evolving, we can first determine what the genetic makeup of the population would look like if it were not evolving at that locus
+- **Null model** can be compared with a real population
+  ![Hardy-WeignbergPrinciple](./Hardy-Weignberg_Principle.png)
+
+#### Example of genotype frequencies
+
+- Hypothesis: **Hardy-Weinberg equillibrium** has met
+- Consider 70 _A_ alleles and 30 _a_ alleles. Then,
+  $$\mathbb{P}(\text{AA homozygote})=0.7 \times 0.7 = 0.49$$
+  $$\mathbb{P}(\text{Aa heterozygote})=(0.7 \times 0.3) + (0.3 \times 0.7)=0.21 + 0.21 = 0.42$$
+  $$\mathbb{P}(\text{aa homozyote})=0.3 \times 0.3 = 0.09$$
+
+#### Generalization of frequency prediction
+
+- Suppose Hardy-Weignberg conditions are met (no change in allele and genotype frequencies). Let
+
+  - $p=\text{frequency of } A$
+  - $q=\text{frequency of } a$
+  - $p+q=1$ (normalization)
+    ![hardy-weignberg-equillibrium-frequencies](./Hardy-Weignberg.png)
+    Then we can predict the genotype frequencies in the next generation as the following:
+    $$\mathbb{P}(\text{AA})=p^2$$
+    $$\mathbb{P}(\text{Aa})=2pq$$
+    $$\mathbb{P}(\text{aa})=q^2$$
+
+- Even if Hardy-Weignberg conditions are not met, allele frequencies can be determined given genotype frequencies e.g. $\text{frequency of }A=p=\sqrt{p^2}=\sqrt{\mathbb{P}(AA)}$
+
+#### Significance of Hardy-Weignberg equillibrium
+
+- When it is upheld, it provides a means of converting between allele and genotype frequencies
+- When it is not upheld, we can infer that evolution has occured in that population (further investigation is required to find the mechanism behind it)
+
+## Natural Selection
+
+- Deterious mutations are eliminated and have no long-term evolutionary impact
+- Advantageous mutations result in adaptation to the environment over time
+
+### Adaptation
+
+#### Relation between Adaptation and Natural Selection
+
+- Darwin explained adaptation through natural selection
+- Through _On the Origin of Species_ in 1859 by Darwin brought both evolution and natural selection to public attention
+
+### Fitness
+
+#### What is Fitness?
+
+- **Fitness** is a **relative** measure of the ability of an individual to survive and reproduct in a particular environment
+- i.e. the extent to which the individual's genotype is represented in the next generation
+- e.g. Consider a gazelle that runs 25 kph. In a [herd](#herd) of gazelle with 20 kph, this one has a high fitness. In a herd of gazelle with 30 kph, this one has low fitness.
+
+#### Relation between Fitness and Natural Selection
+
+- Natural selection over generations increases the overall fitness of a population
+
+### Types of Natural Selections
+
+#### Positive vs Negative
+
+- **Positive Selection**: natural selection that increases the frequency of an advantegous allele
+- **Negative Selection**: natural selection that decreases the frequency of a deletrious allele
+- Human genetic disease still arises as recessive alleles are not completely eliminated through natural selection
+
+#### Balancing Selection
+
+- **Balancing Selection**: natural selection that acts to maintain two or more alleles of a given gene in a population
+- e.g. [heterozygote](#heterozygote-advantage) [advantage](#heterozygote-advantage) illustrated by human populations in Africa affected by malaria: a heterozygote _AS_ with _A_, a normal hemoglobin allele and _S_, a sickle-cell allele is preferred as sickle-cells are effective at fighting for malaria but also can be fatal if excessive due to capillary blockage
+
+#### Modes of Selection
+
+- **Stabilizing Selection**: maintains the status quo and acts against extremes e.g. human birth weight: fatal if a baby is very small or very big
+  ![stabilizingSelection](./Stabilizing_selection.png)
+- **Directional Selection**: a form of selection that results in a shift of the mean value of a trait in a population over time e.g. size of bills of the birds
+  ![directionalSelection](./Directional_selection.png)
+  **Artificial Selection** is a form of directional selection
+- **Disruptive Selection**: a form of selection that operates in favour of extremes and against intermediate forms, selecting against the mean e.g. Apple maggot flies (_Rhagoletis pomonella_): one group feeds on apple trees, the other group on hawthorn trees due to the difference in the timing of fruiting
+  ![disruptiveSelection](./Disruptive_selection.png)
+
+#### Sexual Selection
+
+- **Sexual Selection**: a form of selection that promotes traits that increase an individual's access to reproductive opportunities
+  - **Intrasexual Selection**: a form of sexual selection involving interactions between individuals of on sex e.g fighting ability in males to compete other males
+  - **Intersexual Selection**: a form of sexual selection involving interaction between males and females e.g. bright colors in males to attract females
+
 ## Terminologies
 
 <a id="gene-pool"></a>**gene pool**: all the alleles present in all individuals in a population or in a species e.g. alleles for skin colour, hair type, eye colour, etc
@@ -156,3 +264,13 @@ The goal of **population genetics** is to **infer the evolutionary process** fro
 <a id="populations"></a>**populations**: all the individuals of a given species that live and reproduce in the same geograhpical area; one of several interbreeding groups of organisms of the same species living in the same geographical area
 
 <a id="polymorphism"></a>**polymorphism**: variable nucleotide positions
+
+<a id="lethal"></a>**lethal**: sufficient to cause death
+
+<a id="genetic-drift"></a>**genetic drift**: a random change in the frequency of an allele due to the statistical effects of finite population size
+
+<a id="allele-frequency"></a>**allele frequency**: commonndess or rarity of each allele in the gene pool assuming individuals are diploid and both gametes contribute to the production of offspring
+
+<a id="herd"></a>**herd**: a social group of certain animals of the same species
+
+<a id="heterozygote-advantage"></a>**heterozygote advantage**: a form of balancing selection in which the heterozygote's fitness is higher than that of either of the homozygotes resulting in selection that ensures that both alleles remain in the population at intermediate frequencies
