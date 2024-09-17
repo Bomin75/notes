@@ -10,6 +10,204 @@ Life displays great diversity with 10 million or more species. The unity and the
 
 ## Introduction to Evolution
 
+### What is Evolution?
+
+Basic Definition:
+
+- Change through time
+- Decent with motification
+- Darwin's "Pangenesis": proposal that each part of the body continually emits small particles called gemmules that contribute to the heritable information to the gametes
+
+**Biological** Definition:
+
+- Change in allele or genotype frequencies in populations over time
+
+Note:
+
+- Evolution occurs in **populations**
+- Evolution **does not** occur in an individual
+
+### Adaptive Radiation
+
+- Organism diversify rapidly from an acestral species when a change in the environment makes new resources available, creates new challenges, or opens new environmental [niche](#niche)
+- e.g. Hawaiian Drosophila radiation: alleles and genotypes of Drosophila shift through times as volcanic islands form, are observed through phenotypes, and evolve by natural selection
+
+### How does Evolution affect our lives?
+
+**Penicillin**
+
+- Product of _Penicillium_ mold (Alexander Fleming, 1928)
+- Represents an evolved response to bacteria
+- First antibiotic drug based on a naturally occuring substance
+- Four years of of use -> _Staphylococcus_ strains resistant went up to 14%
+- By 1950, resistant became more than 50%
+
+**Penicillin: today**
+
+- Continue to develop new strains of penicillin
+- Identify and locate resistance
+- Need to minimize dependence on antibiotics
+- Resistant bacteria still kills 30,000 to 40,000 Americans each year
+
+**COVID-19**
+
+- Mutations lead to variations, which can exceptionally be problematic
+- Properties of variants: [virulence](#virulence), dispersal, symptoms
+
+### Micro vs Macro
+
+**Microevolution**
+
+- Changes within a species
+- Caused by natural selection or evolutionary forces
+- Depends on heritable variation in genetics of a [population](#population)
+- **Traits** can be under strong natural selection e.g. antibiotic resistance
+
+**Macroevolution**
+
+- Changes between species
+
+## Microevolution
+
+### Phenotypic Variation
+
+Heritable variation in appearance and/or function
+
+- **Qualitative variation**:
+
+  - Discrete characteristics
+  - **Polymorphism**: distinct variatns of character
+  - e.g. two-spot ladybug
+
+- **Quantitative variation**:
+  - Continuous and measurable characteristics
+  - Controlled by multiple genes
+  - e.g. height
+
+Examples of Phenotypic Variation
+
+- European Garden Snails vary in colour as there is no selective pressure acting on it. In a hypothetical situation, the population can converge towards a brown-coloured snails if the predators evolve to detect the bright colours better.
+- Bahamian Land Snails are under a strong selective pressure, having only a few, non-distinguishable phenotypic variation.
+
+Factors of the Phenotypic Variation
+
+- Phenotypic variation is due to **genetics (genotype)**, **environment**, or **both**
+- Only genetic component of phenotype are heritable
+
+### Phenotypic Variation Experiment
+
+1. Keep Genetics constant (e.g. clone), Vary Environment
+
+- The clour of Hydrangeas vary depending on the pH of soil (acidic: blue, basic: pink)
+
+2. Breeding and Selection
+
+- Important as evolution can only act on heritable variation
+- Artificially selected mouse with higher activity level (experimental lines) and compared with control lines (no artificial selection) -> found out that there was underlying genetic variation for activity level
+- **Mandelian genetics**
+
+### Genetic Variation
+
+Causes
+
+1. New alleles from mutations
+2. Recombination: from crossing over, independent assortment, random fertilization
+
+Types
+
+1. **Germ-line mutations**: occur in the reproductive cells -> inherited
+2. **Somatic mutations**: occur in the non-reproductive cells -> does not get inherited
+
+### Population Genetics
+
+The study of patterns in genetic variation in populations
+
+- Individuals within a population must differ genetically for evolution to occur
+- Individuals within a population are closely related to each other than members of other populations
+- Different populations of the same species may be isolated from each other such that gene flow is rare
+
+**Gene Pool**
+
+- Sum of all alleles at all gene loci in all individuals within a population
+- Characterizes a population's genetic makeup
+- Used to identify the genotypes and calculate **genotype frequencies**
+- Given that species is diploids and have two alleles of each gene, we can calculate **allele frequencies**
+
+## Evolutionary Agents
+
+### Genotypes and Alleles
+
+- **Genotype frequency**: the % of individuals in a population with a specific genotype -> shows the distribution of allele combinations in a population
+- **Allele frequency**: the % of all copies of a certain gene in a population that carry a specific allele -> shows the distribution of genetic variation in a population
+- Evolution is measured as changes in **allele frequencies** in populations
+
+### Computing Frequencies
+
+Notations
+$$p=\text{frequency of one allele}$$
+$$q=\text{frequency of another allele}$$
+$$p+q=1 \text{ (normalization)}$$
+
+Genotype Frequencies of the Next Genetation
+
+Assuming that the population is in equilibrium for the C locus, we have
+$$(p+q)\times(p+q)=p^2+2pq+q^2$$
+where
+$$p^2= (\text{frequency of }C^RC^R)$$
+$$2pq= (\text{frequency of }C^RC^W)$$
+$$q^2= (\text{frequency of }C^WC^W)$$
+
+Example
+
+- Conisder **Snapdragons** that exhibit **incomplete dominance** with distinctive phenotype of heterozygotes
+- Let $p=0.7, q=0.3$
+- Then, expected genotype frequencies in the next generation are
+  $$p^2= 0.7 \times 0.7 = 0.49$$
+  $$2pq= 2 \times 0.7 \times 0.3 = 0.42$$
+  $$q^2= 0.3 \times 0.3 = 0.09$$
+- Predicted countings are 490, 420, and 90.
+- Actual countings are 410, 423, and 167, respectively
+- Thus, we can conclude that one of the Hardy-Weinberg principles is violated and the population is evolving with the selective force towards the $C^W$ allele.
+
+### The Hardy-Weinberg Principle
+
+- **Null model**: assume the absence of evolutionary change and compare it to the real population
+- **Hardy-Weinberg Equilibrium**: describes a population where the frequencies of alleles and genotypes remains constant from generation to generation, provided that only Mandelian segregation and recombination of alleles are at work
+- The **Hardy-Weinberg Equilibrium** occurs when the following conditions are met:
+  1. **No mutation**
+  2. **No gene flow**: population is closed to migration from other populations
+  3. **Infinite population**
+  4. **No natural selection**: all genotypes survive and reproduce equally
+  5. **Random mating**: individuals mate randomly with respect to genotypes
+
+### Microevolutionary Agents
+
+1. **Mutation**: a heritable change in DNA -> introduces new genetic variation into population
+
+- Rare event, significant over long time scales
+- **Deleterious** or **lethal** mutations are harmful but may persist if recessive
+- **Neutral mutations** are neither harmful or helpful e.g. **slient mutation** that does not alter amino acids
+- **Advantageous mutations** benefit an organism e.g. novel host adaptation
+
+2. **Gene flow**: change in allele frequencies as individuals join a population and reproduce -> may introduce genetic variation from another population
+
+- may be the movement of individuals e.g. seeds or gametes e.g. pollen
+
+3. **Genetic drift**: random changes in allele frequencies caused by chance events -> reduces genetic variation (can eliminate in small populations)
+
+- **Population bottelneck**: caused by catastrophic factors: diseases, starvation, drought -> reduce genetic variation
+- **Founders effect**: migrating population may not have the entire genetic variation of the parent population
+
+4. **Natural selection**: differential survivorship or reproduction of individuals with different genotypes -> one allele may increase in frequency
+
+- **Relative fitness** is the contribution an individual makes to the gene pool of the next generation relative to the contribution of others
+- Natural selection can be measured by **fitness**
+- **Directional selection**: favours individuals near one end of phenotypic spectrum
+- **Stabilizing selection**: favours individuals with intermediate phenotypes
+- **Disruptive selection**: favours individuals with extreme phenotypes
+
+5. **Nonrandom mating**: choice of mates based on their phenotypes and genotypes -> does not directly affect allele frequencies but prevent genetic equilibrium
+
 ### Variation in Populations
 
 #### Why is Variation Beneficial for Evolution?
@@ -258,6 +456,12 @@ The goal of **population genetics** is to **infer the evolutionary process** fro
   - **Intersexual Selection**: a form of sexual selection involving interaction between males and females e.g. bright colors in males to attract females
 
 ## Terminologies
+
+<a id="niche"></a>**niche**: the position of a species within an ecosystem, describing both the range of conditions necessary for persistence of the species, and its ecological role in the ecosystem
+
+<a id="virulence"></a>**virulence**: the quality of being poisonous or injurious to life
+
+<a id="population"></a>**population**: individuals of species at same time and same place, interbreed, producing fertile offspring
 
 <a id="gene-pool"></a>**gene pool**: all the alleles present in all individuals in a population or in a species e.g. alleles for skin colour, hair type, eye colour, etc
 
