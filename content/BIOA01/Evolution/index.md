@@ -500,12 +500,18 @@ What happened to that chromosome?
 
 ### Predictions based on evolution
 
-1. If life originated on Earth in the distant past and then evolved, then we should see evidence in the fossil record
+#### If life originated on Earth in the distant past and then evolved, then we should see evidence in the fossil record
 
 - First detectable traces of life on earth should be simple forms -> more complex forms later
 - Fossils: occur when organismal features are preserved long after death
 
-Note: fossil records is incomplete - Soft-bodies preserved less than hard - Rare species even rarer - Lack of sedimentation - Highly dependent on conditions - few were fossilized - Formed through **permineralization**: organism is buried, filled with mineral rich waters, turns tissue to stone, cellularly
+Note: fossil records is incomplete
+
+- Soft-bodies preserved less than hard
+- Rare species even rarer
+- Lack of sedimentation
+- Highly dependent on conditions - few were fossilized
+- Formed through **permineralization**: organism is buried, filled with mineral rich waters, turns tissue to stone, cellularly
 
 There are organic materials preserved from 'recent time' which are not fossil records e.g., Baby mammoth - 40,000 y/o
 
@@ -521,23 +527,72 @@ Geological Dating
 
 1. Radiocarbon dating
 
-
-    - Neutrons emitted from the cosmic radiation collides with $^{14}N$ to create $^{14}C$
-    - $^{14}C$ bonds with oxygens to form $CO_2$ and ends up in plants and animals through photosynthesis and plant consumption
-    - After organisms die and are buried, $^{14}C$ decays to the stable $^{14}N$
-    - Half the $^{14}C$ turns to $^{14}N$ every 5730 years
-    - The level of $^{14}C$ in plants and animals when they die approximately equals the level of $^{14}C$ in the atmosphere at that time
-    - Directly compared with know year-by-year data from tree-ring data (~13,000 years), ocean and lake sediments, corals and [stalagmites](#stalagmite) (now ~55,000 years)
+- Neutrons emitted from the cosmic radiation collides with $^{14}N$ to create $^{14}C$
+- $^{14}C$ bonds with oxygens to form $CO_2$ and ends up in plants and animals through photosynthesis and plant consumption
+- After organisms die and are buried, $^{14}C$ decays to the stable $^{14}N$
+- Half the $^{14}C$ turns to $^{14}N$ every 5730 years
+- The level of $^{14}C$ in plants and animals when they die approximately equals the level of $^{14}C$ in the atmosphere at that time
+- Directly compared with know year-by-year data from tree-ring data (~13,000 years), ocean and lake sediments, corals and [stalagmites](#stalagmite) (now ~55,000 years)
 
 2. Radioactive Dating
 
-
-    - Uranium 235/238, Error: 2 million years in 2.5 billion years
-    - Measure the ages of rocks
+- Uranium 235/238, Error: 2 million years in 2.5 billion years
+- Measure the ages of rocks
 
 The earliest life form
 
 - **Cyanobacteria**: first appeared on earth 3.5 billion years ago
+
+#### If evolution occured within lineages, and those lineages sometimes split, then we should see change in species or morphology through the fossil record
+
+- We should sometimes see one lineage dividing into two or more in the fossil record
+
+Example
+
+- Plaktonic diatom, _Rhizosolenia_, samples from deep sea bore holes
+  ![Planktonic_Diatom_Divergence](./Planktonic_Diatom_Divergence.png)
+- Marsh's reconstruction of horse evolution
+  ![Horse_Evolution](./Horse_Evolution.png)
+  Note the non-linear change
+  ![Horse_NonLinear](./Horse_Non_Linear.png)
+
+Note: Conservation of structure in fossil records (homology)
+
+#### If creatures share a common ancestry, then we should see transitional forms
+
+- Transitional forms show the **intermediate** states between an ancestral **form** and that of its descendants
+
+Example
+
+- Archeopteryx has boned tails -> transitional form of modern birds
+- Tiktaalik has eyes above, can sort of walk -> transitional form between fish and amphibian
+  ![Tiktaalik](./Tiktaalik.png)
+
+#### We should see evidence of retrodictions and vestigial characters
+
+**retroduction**: makes sense only in light of evolution, but is not necessarily predicted by evolution
+
+Examples
+
+- Retrodictions in biogeography
+
+  - Lack of [endemic](#endemic) mammals, amphibians, and freshwater fish on oceanic islands e.g., Lord Howe, Galapagos
+  - These islands rise _de novo_ from sea, devoid of life
+  - Mammals on continental islands (Madagascar)
+  - Plenty of endemic plants, birds, and insects
+  - Life is similar to nearest mainland
+
+- Whales
+  - **Atavism**: legs in humpback whale, have appropriate bones
+
+**Vestigial characters**
+
+- Forelimb and Hindlimb spotted in dolphin embryo
+- Human fetal yolk sac - empty: we have 3 genes for making yolk proteins, but they are nonfunctional e.g., silenced
+
+  ![Human_Yolk_Sac](./Human_Yolk_Sac.png)
+
+- Humans have genes for making vitamin C but does not work
 
 ## Terminologies
 
@@ -555,13 +610,15 @@ The earliest life form
 
 <a id="metamorphosis"></a>**metamorphosis**: a biological process by which an animal physically developes including birth transformation or hatching, involving a conspicuous and relatively abrupt change in the animal's body structure through cell growth and differentiation
 
-<a id="retroduction"></a>**retrodiction**: an explanataion of past actions or events
+<a id="retrodiction"></a>**retrodiction**: an explanataion of past actions or events
 
 <a id="stratum"></a>**stratum**: a layer of a series of layers of rock in the ground
 
 <a id="isotope"></a>**isotope**: an atom with the same number of protons but different number of neutrons
 
 <a id="stalagmite"></a>**stalagmite**: a type of rock formation that rises from the floor of a cave due to the accumulation of material deposited on the floor from ceiling drippings
+
+<a id="endemic"></a>**endemic**: endemic species are those that live in a limited area
 
 <a id="polymorphism"></a>**polymorphism**: variable nucleotide positions
 
