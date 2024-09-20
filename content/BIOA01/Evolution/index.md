@@ -594,6 +594,140 @@ Examples
 
 - Humans have genes for making vitamin C but does not work
 
+## Classification & Phylogeny
+
+### Cladogram of Vertebrates
+
+![Cladogram_of_Vertebrates](./Cladogram_of_Vertebrates.png)
+[amniotic](#amniotic-egg) [egg](#amniotic-egg)
+
+[two](#two-post-orbital-fenestrae) [post-orbital](#two-post-orbital-fenestrae) [fenestrae](#two-post-orbital-fenestrae)
+
+### Hierarchical Classification
+
+- **Common names**: convey meaning in casual usage (monkey, finch, lilac)
+  - may cause confusion - some do not accurately reflect the type of organism e.g., Jellyfish
+- **Scientific names**: Latin, avoid ambiguity
+  - Instituted in $18^{th}$ century by Carolus Linneaus
+
+Example
+
+- Linneaus also grouped them into a hierarchy of increasingly inclusive categories
+- _Panthera_ genus:
+  - _Panthera pardus_ - Leopard
+  - _Panthera leo_ - African lion
+  - _Panthera tigris_ - Tiger
+  - _Panthera onca_ - Jaguar
+
+Hierarchy
+![Hierarchy](./Hierarchy.png)
+
+Ancestral Lineage
+![Ancestral_Lineage](./Ancestral_Lineage.png)
+
+Note: a species must have only one species that is most closely related to -> polytomy needs to be resolved
+
+### Phylogenetic trees
+
+- Evolutionary history of a group of organisms can be represented in a grouping diagram called a **phylogenetic tree**
+- **Phylogenetic tree**: a simple 2D, bi-furcating diagram that captures the evolution and diversification of a group of organisms through time
+- Difference from cladogram: a phylogenetic tree is time calibrated
+  - Poisition of the nodes is rooted in time
+  - Length of the branches indicate how long that lineage has been around for
+- **Systematics**: the science of organizing the history or organismal evolution; use phylogenies
+- Trees can change topology through rotation without changing evolutionary relationships
+
+### Determining characters for classification
+
+Characters must be _independent_ for use in classification
+
+1. Independent traits cannot have environmental phenotypic variation
+
+- **Phenotypic plasticity**: a change in the phenotype associated with a given genotype in response to different environmental conditions
+- Must be independent from phenotypic plasticity
+
+2. Independent traits must be _independent_
+
+- **Pleiotropy**: expression of multiple unrelated traits by a single gene
+- Avoid pleiotropy when selecting traits for phylogeny
+- e.g., frizzled feather trait in chickens involve bunch of other traits:
+  - higher body temp
+  - mature later
+  - higher food consumption
+  - lay fewer eggs
+
+### Tracing phylogenetic patterns
+
+- Constructed using hundreds or thousands of traits
+- **Phylogenies are hypothesis** that can change as we obtain new data or apply new methods of constructing the phylogeny
+- Considered the true evolutionary relationships when multiple lines of evidence and multiple methods of analysis converge on the same tree
+- Computer programs support analysis of traits and tree constructions (e.g., MEGA, Mr. Bayes, PAUP)
+
+### Beauty of Phylogenies
+
+- **Combined with information on the fossil record**, phylogenies can give us a glimpse of the temporal patterns of diversification (e.g., a time of evolution)
+- **Combined with biogeographic data**, we can infer _dispersal events_ and [_vicariance_](#vicariance) e.g., Raffelsia
+  ![Vicariance](./Vicariance.png)
+- **Combined with behaviour, ecology, or morphology data**, phylogenies help us understand the origin and loss of traits and predict traits of unstudied species
+
+### Applications of Phylogenies
+
+- Enhancement in understanding of evolution
+- Control of agriculture pests and diseases
+- Identification of endangered species and managing wildlife
+- Selection of plants and animals for research
+- Data needed to test **homologous** vs. **analogous** relationships
+
+### Homologous vs Analogous
+
+**Homologous** traits: similar origin
+
+- Result from common ancestry
+- A product of **divergent** evolution
+- Fundamental to systematics
+- Similar structure and embryonic formation
+
+**Analogous** traits: similar function
+
+- Do not result from common ancestry
+- **Homoplasy** (hom-: similar, -plasia: formation):
+  - Outcomes of [**convergent**](#convergent-evolution) [evolution](#convergent-evolution)
+  - Convergent evolution can be a result of adaptive radiations that occur in [**Allopatry**](#allopatry) e.g., Mammals / [Marsupisals](#marsupisal)
+    ![Mammals_vs_Marsupisals](./Mammals_vs_Marsupisals.png)
+  - Can be as simple as single gene changes, or complex and involve reorganization of multiple systems to converge on a solution
+  - e.g., human eyes vs. octopus eyes
+  - e.g., halteres in crane flies and twisted wing parasites (used for **gyroscopy**: to detect the deviation of an object from its desired orientation)
+  - Not used in systematics
+- Different from the conservation of structure (homology)
+
+### Ancestral vs Derived
+
+Inherited traits may be **ancestral** or **derived** depending on the point of reference in phylogeny
+
+- **Ancestral**: a trait that was present in the ancestor of a group/clade
+- **Derived**: a trait that differs from close ancestral trait
+
+  - Deteremined from fossils and embryos/larval stage
+  - Derived characters appear later in development
+  - Help define [**outgroup**](#outgroup) **comparison** for derived characters
+
+- Outgroup limitations: a character can revert from a derived state back to the ancestral state
+
+Note: derived traits are a subset of ancestral traits (derived traits are somewhat considered the ancestral traits)
+
+- **Synapomorphy**: **derived traits** that are shared among a group of descendants and are viewed as evidence of the common ancestry of the group
+  - e.g., the vertebral column is a synapomorphy(syn-: one, apo-: related to, -morphy: form) of all vertebrates when considering all animals
+  - e.g., milk production is a synapomorphy of all mammals when considering all vertebrates
+
+### Monophyletic vs Paraphyletic vs Polyphyletic
+
+- **Monophyletic group**: a common ancestor and all of its descendants
+  ![Monophyletic](./Monophyletic.png)
+- **Paraphyletic group**: a common ancestor and some of its descendants
+  ![Paraphyletic](./Paraphyletic.png)
+- **Polyphyletic group**: does not include the common ancestor
+  ![Polyphyletic](./Polyphyletic.png)
+
 ## Terminologies
 
 <a id="niche"></a>**niche**: the position of a species within an ecosystem, describing both the range of conditions necessary for persistence of the species, and its ecological role in the ecosystem
@@ -619,6 +753,23 @@ Examples
 <a id="stalagmite"></a>**stalagmite**: a type of rock formation that rises from the floor of a cave due to the accumulation of material deposited on the floor from ceiling drippings
 
 <a id="endemic"></a>**endemic**: endemic species are those that live in a limited area
+
+<a id="amniotic-egg"></a>**amniotic egg**: eggs that contain an amnion to protect the embryo
+
+<a id="two-post-orbital-fenestrae"></a>**two post orbital fenestrae**: the two openings in the skull behind the eye
+![Post_Orbital_Fenestrae](./Post-orbital-Fenestrae.png)
+
+<a id="vicariance"></a>**vicariance**: a lineage splits due to geological events e.g., the breakup of continents, new island formations the uplifting of a new mountain range
+
+<a id="convergent-evolution"></a>**convergent evolution**: when two or more different organisms independently evolve the ability to do the same thing
+
+<a id="allopatry"></a>**allopatry**: a population of species that is physically isolated from other similar groups by an [extrinsic](#extrinsic) barrier to dispersal
+
+<a id="extrinsic"></a>**extrinsic**: a factor that is not in control
+
+<a id="marsupisal"></a>**marsupisal**: a diverse group of mammals belonging to the infraclass Marsupialia. They are natively found in Australasia, Wallacea, and the Americas
+
+<a id="outgroup"></a>**outgroup**: a lineage that falls outside the group being studied but is closely related to that group
 
 <a id="polymorphism"></a>**polymorphism**: variable nucleotide positions
 
