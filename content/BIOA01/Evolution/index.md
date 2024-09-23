@@ -594,7 +594,7 @@ Examples
 
 - Humans have genes for making vitamin C but does not work
 
-## Classification & Phylogeny
+## Classification
 
 ### Cladogram of Vertebrates
 
@@ -655,6 +655,8 @@ Characters must be _independent_ for use in classification
   - mature later
   - higher food consumption
   - lay fewer eggs
+
+## Phylogeny
 
 ### Tracing phylogenetic patterns
 
@@ -728,6 +730,132 @@ Note: derived traits are a subset of ancestral traits (derived traits are somewh
 - **Polyphyletic group**: does not include the common ancestor
   ![Polyphyletic](./Polyphyletic.png)
 
+### Construction of Phylogenetic Trees
+
+- **Principle of Parsimony**: the simplest explanation is most likely to be correct (unless other context provided)
+- We assume that change is an unlikely event
+  - Evolution of a character twice is extremely unlikely
+  - Evolutionary trees with derived characters appearing once are most parsimonious
+- Minimize the changes -> minimize the homoplasies
+
+### What traits to use?
+
+1. Morphological
+
+- Most species have been described on the basis of morphological data e.g.,
+  - features of skeletal system in vertebrates
+  - floral structures in plants
+  - external features of exoskeleton in insects
+- Limitations
+  - comparing distantly related species -> too different
+  - some species show few morphological differences -> too similar
+  - some morphological variation affected by the environment
+
+2. Developmental
+
+- Similarities in development patterns may reveal evolutionary relationships (look at embryos) e.g.,
+  - Sea squirts and vertebrates all have a _notochord_ at some time in their development
+- Limitations
+  - complicated to quantify
+
+3. Paleontological
+
+- **Fossil** provide information about morphology of past organisms, and where and when they lived
+- Important in determining _derived_ and _ancestral_ traits
+- Important in determining when lineages diverged
+- Limitations
+  - Fossil record is fragmentary and missing for some groups
+
+4. Behavioural
+
+- Some behavioural traits are inherited e.g.,
+  - Frog calls are genetically determined and can be used in phylogenetic trees
+- Limitations
+  - Some behavioural traits are culturally transmitted
+  - e.g., bird songs are often learned and may not be a useful trait
+
+5. Molecular characters
+
+- DNA, RNA, and amino acids changes reflect evolution
+- Pros:
+  - Abundant data
+  - Easier comparison of distant or very close relations
+  - No direct environmental effect
+- Cons:
+  - Only four states in nucleotides, 20 in amino acids
+  - Base changes may have evolved independently
+- **Molecular Clocks**: the number of changes, or mutations, which accumulate in the gene sequences of different species over time is relatively constant
+  - Each DNA sequence has a different clock tick
+  - Molecular differences between pairs of species are proportional to the time of their separation -> used to determine the time of divergence
+- Analysis of molecular characters
+  - Sequence of amino acids or nucleotide bases reflects evolutionary relationships
+  - Less similarities in sequence: more distant relation
+  - Sequences must be aligned to the same position as mutations can change the length of DNA
+  - Mitochondrial, chloroplast, and nuclear DNA are all used
+  - Comparison with reference database
+
+### Modern approach
+
+- Maximum likelihood & Bayesian-based tree building algorithms
+  - useful when quality/quantity of data does not permit parsimony
+
+## Speciation
+
+### What is a species?
+
+- Smallest independently evolving unit
+- Species follow independent evolutionary trajectories
+- Defining species is extraordinarily contentious
+- \>20 different species concepts
+
+Linnaeus' morphological species concept
+
+- Linnaeus defined species based on their appearance
+- Originated [binomial](#binomial-system-of-nomenclature) [system](#binomial-system-of-nomenclature) [of](#binomial-system-of-nomenclature) [nomenclature](#binomial-system-of-nomenclature)
+- Idea: members of species look alike because they share many alleles
+- Limitations
+  - Does not reflect **sexual dimorphism**
+  - Immature individuals may not look like their parents (life cycle)
+
+More concepts
+
+1. Biological species concept
+
+- A species is a group of organisms that can interbreed and produce fertile offspring
+- Limitations
+  - Species hybridize and may produce offspring
+  - Plant cultivars
+  - Asexual organisms e.g.,
+    - an **androdioecous species**: males and hermaphrodites coexist
+    - a **gynogenetic species**: embryo only contains maternal chromosomes due to activation of an egg by sperm that degenerates without fusing with the egg nucleus
+
+2. Ecological species concept
+
+- A species is a group of organisms that share a distinct ecological niche
+- Idea: different species use ecological resources differently, to become divergent in behaviour and location
+- Not commonly used
+
+3. Phylogenetic species concept
+
+- A species is a group of organisms bound by a unique ancestry
+- Limitation
+  - **Introgression** due to hybridization
+
+Why controversial?
+
+- Species are dynamic, evolving individuals, but we attempt to force them into rigid classes
+- Life is always in transition
+- All extant taxa are changing
+- Nature does not conform to our boundaries of classification
+
+### Giraffes
+
+- 5 to 10 different subspecies of giraffes exist
+- distinctions based on geographic range
+- distinctions based on pelage pattern
+- Some difference in pelage is not associated with geographic barriers
+- Through mitochondrial DNA sequence analysis, and nuclear microsatellite loci analysis, six genealogically distinct lineages are found
+
 ## Terminologies
 
 <a id="niche"></a>**niche**: the position of a species within an ecosystem, describing both the range of conditions necessary for persistence of the species, and its ecological role in the ecosystem
@@ -770,6 +898,8 @@ Note: derived traits are a subset of ancestral traits (derived traits are somewh
 <a id="marsupisal"></a>**marsupisal**: a diverse group of mammals belonging to the infraclass Marsupialia. They are natively found in Australasia, Wallacea, and the Americas
 
 <a id="outgroup"></a>**outgroup**: a lineage that falls outside the group being studied but is closely related to that group
+
+<a id="binomial-system-of-nomenclature"></a>**binomial-system-of-nomenclature**: combination of two names into one to give all species unique scientific names. The first part is called the genus and the second part is called the specific epithet
 
 <a id="polymorphism"></a>**polymorphism**: variable nucleotide positions
 
