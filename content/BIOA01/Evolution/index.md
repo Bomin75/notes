@@ -856,6 +856,120 @@ Why controversial?
 - Some difference in pelage is not associated with geographic barriers
 - Through mitochondrial DNA sequence analysis, and nuclear microsatellite loci analysis, six genealogically distinct lineages are found
 
+### Speciation
+
+- When gene flow is reduced between population, they may diverge genetically due to **mutation**, **natural selection**, **genetic drift**
+- This genetic divergence may lead to **speciation**
+
+### Types of Isolation
+
+- **Prezygotic isolation**: occurs when individuals of different species are prevented from mating
+  - Breed in different places
+  - Breed at different times
+  - Sexual selection - females only attached to same species
+  - Genitalic incompatibility
+- **Postzygotic isolation**: occurs when individuals from different populations do mate, but the hybrid offspring produced have low fitness and do not survive or are not fertile
+  - Sterile hybride - e.g., horse + donkey = mule
+  - Reduced fitness of hybrids
+  - [Polyploidy](#polyploidy)
+  - Limitations
+    - The crieterion cannot be evaluated in fossils or in species that reproduce asexually
+    - Can only applied to populations that overlap geographically ([**sympatry**](#sympatry))
+
+#### Isolation and divergence in allopatry
+
+- Genetic isolation happens when populations become physically separated
+- Populations that live in different areas are said to be **allopatric**
+- Physical isolation occurs by dispersal or vicariance (separated themselves or separated by the environment)
+- **Allopatric speciation**: speciation that begins with physical isolation
+- **Biogeography** can tell us how colonization and range-splitting events occur
+  - **Dispersal** occurs when a population moves to a new habitat, colonizes it, and form a new population -> **gene flow** $\downarrow$, **genetic drift** via the _founder effect_ catalyzes speciation, different **natural selection** if new environment is different
+  - **Vicariance** occurs when a physical barrier splits a widespread population into subgroups that are physically isolated from each other
+    - Vicariance events during the last ice age, when glaciers served as physical barriers are thought to be responsible for the origin of many modern species
+    - **Continental drift**: the movement of continental plates explained by the theory of plate tectonic
+    - Continental drift separated species physically over the long time
+
+#### Isolation and divergence in sympatry
+
+- Populations or species that live in the same geographic region (close enough to mate) live in **sympatry**
+- **Natural selection** can overcome **gene flow** and cause **sympatric speciation**
+
+Example
+
+- Hawthorn flies started laying eggs in both hawthorns and apples after the introduction of apple trees
+- Hawthorns have better nutrition
+- Apples have fewer parasitism
+- **Disruptive selection** occured and ended up with the creation of apple maggot flies
+- Hawthorn maggot flies and apple maggot flies prefer to mate on hawthorn fruit and apple fruit, respectively
+- They still can mate -> no speciation yet
+
+### Polypoidy leading to speciation
+
+- For example, tetraploid individuals are genetically isolated from wild-type individuals because they produce diploid gametes rathe rthan haploid gametes
+- If these gametes combined, the resulting zygote would be triploid
+- Triploid individuals produce gametes with a dysfunctional set of chromosomes e.g., seedless bananas
+
+Autopolyploidy
+
+- Chromosome duplications within a species
+- Unreduced gametes receive same _n_ as somatic cell, error in meiosis
+- Odd chromosome numbers usually sterile (except plants and fungi)
+
+Allopolyploidy
+
+- Chromosome duplications between species
+- Doubling of hybrid species chromosomes make them fertile
+
+Evolution of Wheat
+
+- Diploid wild wheat, _Triticum monococcum_, has two sets of 7 chromosomes (14AA)
+- Long ago, _T. monococcum_ hybridized with another species that had the same number of chromosomes (14BB)
+- The AB hybrid offspring were sterile (14AB)
+- Polyploidy arose in the hybrids (28AABB), and they are fertile because at meiosis, A chromosomes pair with each other and B chromosomes pair with each other
+- Later, 28AABB hyberdized with _T.tauschii_ (14DD)
+- The hybrid descendants (42AABBDD) include common bread wheats, such as _T. aestivum_
+
+### Chromosome alterations
+
+- Closely related species often differ in chromosomal arrangement
+- Chromosomal rearrangements lead to higher rates of protein evolutionary divergence
+  - **Inversions**: breakage, rearrangement withint itself
+  - **Translocations**: exchange between non-homologous chromosomes
+  - **Deletions**: mutation leading to loss of nucleotides
+  - **Duplications**: part of chromosomes duplicated
+- Fast speciation
+
+### When isolated populations come into contact
+
+Divergence
+
+- If two populations have diverged and if divergence has affected when, where, or how individuals in the populations mate, **prezygotic isolation** exists
+- Then, mating between the populations is rare, gene flow is minimal, and continue to diverge
+
+Introgression
+
+- With no **prezygotic isolation**, populations may interbreed
+- **Introgression**: gene flow then occurs and may erase distinctions between the two populations
+
+Development of Hybrid zones
+
+- Sometimes the hybrid offspring of related species possess traits that are intermediate between the two parental populations, healthy and capable of breeding
+- **Hybrid zone**: a geographic area where interbreeding between two populations occur and hybrid offspring are common
+
+Reinforcement
+
+- If two populations of related species have diverged extensively and are distinct genetically, their hybrid offspring will most likely have lower fitness and will not develop or reproduce normally
+- **postzygotic isolation**
+- Strong natural selection against interbreeding
+- **Reinforcement**: selection for traits that isolate populations reproductively
+- **Sympatric** species that are close relatives living in the same area are rarely willing to mate with one another
+- **Allopatric** species that are close relatives living in different areas are often willing to mate with one another
+
+Others
+
+- Reinforcement
+- Speciation by hybridization
+
 ## Terminologies
 
 <a id="niche"></a>**niche**: the position of a species within an ecosystem, describing both the range of conditions necessary for persistence of the species, and its ecological role in the ecosystem
@@ -900,6 +1014,10 @@ Why controversial?
 <a id="outgroup"></a>**outgroup**: a lineage that falls outside the group being studied but is closely related to that group
 
 <a id="binomial-system-of-nomenclature"></a>**binomial-system-of-nomenclature**: combination of two names into one to give all species unique scientific names. The first part is called the genus and the second part is called the specific epithet
+
+<a id="polyploidy"></a>**polyploidy**: the heritable condition of possessing more than two complete sets of chromosomes, common in fungi and plants
+
+<a id="sympatry"></a>**sympatry**: two populations co-existing in the same place
 
 <a id="polymorphism"></a>**polymorphism**: variable nucleotide positions
 
