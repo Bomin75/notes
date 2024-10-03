@@ -970,6 +970,228 @@ Others
 - Reinforcement
 - Speciation by hybridization
 
+## Eukaryotes
+
+### Protists
+
+- Protist (eykaryotes) evolved about 1.5
+- Protists are all the Eukaryotes except for green plants, fungi, and animals in the tree of life
+- Unlike Prokaryotes, Protists have:
+  - A membrane-bound nucleus, with multiple, linear chromosomes
+  - Cytoplasmic organelles (e.g., ER, golgi) including mitochondria and chloroplasts
+  - Transcription and translation characteristics similar to other eukaryotes
+
+Protists are different from Plants & Animals
+
+- Photosynthesizing Protists differ from plants
+  - Ability to live as heterotrophs
+  - No embryo protection (seed)
+  - Not highly differentiated
+- Protists differ from animals
+  - No internal digestive tract
+  - No complex development
+  - No collagen
+  - Not highly differentiated
+
+Protists are Diverse
+
+- **Habitat**: Aqueous
+  - Aquatic or moist terrestrial locations
+  - Oceans, freshwater lakes, ponds, streams, and moist soild an dwithint host organisms
+- **Structure**: unicellular or colonies with little differentiation
+  - Some are large multicellular organisms (giant kelp)
+
+### Eukaryotic Cell
+
+- The nuclear membrane separates transcription and translation in eukaryotes (\* Defining feature of eukaryotes)
+- Energy metabolism that requires membran stability is confined to organelles
+- The cytoskeleton enables cells to change shape by remodeling quickly -> promote differntiation
+- Vesicles budding off from membranes transport materials into the cell in endocytosis, and release material from the cell in exocytosis
+- A network of membranes are able to change shape and package molecules and particles for transport within the cell
+  ![Eukaryotic_Cell](./Eukaryotic_Cell.png)
+
+### Eukaryotic Life Cycles
+
+- Sexual reproduction involves meiosis and the formation of gametes, and the subsequent fusion of gametes during fertilization
+- Promotes genetic variation in two ways:
+  - Meiotic cell division results in gametes or spores that are genetically unique
+  - In fertilization, new combinations of genes by the fusion of gametes
+
+![Life_Cycle](./Life_Cycles.png)
+
+Animals
+![Life_Cycle_Animal](./Life_Cycle_Animal.png)
+
+Plants
+![Life_Cycle_Plant](./Life_Cycle_Plant.png)
+
+### Intracellular Protist Structures
+
+- **Contractile vacuole**: pumps water to prevent lysis in freshwater
+- **Pellicile**: layer of supportive protein fibers under plasma membrane
+- **Pseudopodia**: lobes of cytoplasm for amoeboid movement
+  - Used to engulf food
+
+Tyeps of Locomotions
+![Locomotion](./Locomotion.png)
+
+The Mitochondrion
+
+- Mitochondria are organelles that generate ATP
+- The **endosymbiosis theory** proposes that mitochondria originated when a bacterial cell took up residence inside a eukaryote about 2 billion years ago
+  - **Symbiosis** occurs when individuals of two different species live in physical contact
+  - **Endosymbiosis** occurs when an organism of one species lives inside an organism of another species
+    ![Endosymbiosis](./Endosymbiosis.png)
+- Eukaryotic cells used cytoskeletal elements to engult aerobic bacteria
+- Eukaryote supplied the bacterium with protection and carbon
+- The bacterium oxidized the carbon and supplied the host cell with ATP
+- Characteristics of Mitochondria supporing the endosymbiosis theory:
+  - Approximately size of an average bacterium
+  - Replicated by fission
+  - Have their own ribosomes to manufacture their own proteins
+  - Have double membranes showing engulfing mechanism
+  - Have their own genomes
+- Phylogenetic data that supports endosymbiosis theory
+  ![Phylogenetic_Endosymbiosis](./Phylogenetic_Endosymbiosis.png)
+
+### Opisthokonta
+
+- This superkingdom includes >1.3 million animal species (mostly insects and their relatives), fungi (148,000 species), and protists, including choanoflagellates
+- **Defining feature**: have a single posterior flagellum at some stage in life cycle
+  ![Flagellum](./Flagellum.png)
+- **Choanoflagellata (choanoglagellates)**
+  - Collar of microvilli surrounds single flagellum
+  - Likely ancestors of fungi and animals
+
+### Amoebazoa
+
+Amoeboa
+
+- Amoebozoa amoebas (most amoebas)
+- Marine, freshwater, soil
+- Some parasitic (amoebic dysentery)
+- Heterotrophs (feed on bacteria, other protists, organic matter)
+- Unsupported by any internal cellular organization ("shape-shifters")
+- Asexual, single-celled
+
+Plasmodial Slime Molds
+
+- Complex life cycle: haploid cells fuse to form zygote -> undergo repeated rounds of mitosis (without division) -> form colourful and lacy structure
+- **Coenocytic**: contain many nuclei within one giant cell (plasmodium)
+- Under harsh conditions, generate sporangia
+
+### Archaeplastida
+
+Red Algae
+
+- Mostly marine
+- Mostly multicellular
+- Differentiated tissues and complex morphology
+- Walls made of cellulose
+- Photosynthetic pigments in the form of chlorophyll _a_ and biliproteins
+- Used in toothpaste, ice cream, and agar
+
+Green Algae Diversity
+
+- Same pigment as true plants
+- Little differentiation
+- High diversity of body forms and life cycles
+- Symbiotic relationships with fungi (lichen) or animals
+- Genomes most similar to true plants
+
+### Stramenopiles
+
+Brown Algae
+
+- All are photoautotrophs
+- Multicellular marine forms
+- Contain carotenoids, algin
+- 6m long
+- e.g., kelp: largest, most complex protists, differentiation (into blades, stipes, holdfasts)
+
+### Alveolates
+
+- Have small membrane-bound vesicles called **alveoli**
+
+Ciliates
+
+- Motile
+- Mostly free-living
+- Swim using cilia
+- Complex cytoplasmic structures
+- Two types of nuclei (micronucleus, macronucleus)
+
+Dinoflagellates
+
+- Motile
+- Mostly free-living
+- Swim using flagella
+- Shell of cellulose plates
+- Primarily marine
+- Many coral species would die without photosynthetic dinoflagellates
+- Some are bioluminescent
+- Some cause red tides
+
+Apicomplexans
+
+- Nonmotile
+- Parasitic
+- Apical complex attaches to
+- Invades host cells
+- e.g., malaria
+- Both asexual and sexual reproduction
+
+### Rhizarians
+
+Cercozoa
+
+- Amoeboid
+- Single-celled
+- Move by stiff, filamentous pseudopodia
+- Produce hard outer shells
+
+Cercozoa - Radiolarians
+
+- Glassy internal skeleton
+- Marine heterotrophs
+- **Axopods** provide buoyancy and used in feeding
+
+Cercozoa - Foraminifera
+
+- Form chambered, spiral shells containing calcium carbonate
+- Marine heterotrophs
+- Cytoplasm extends through perforations in shells
+- Traps prey
+- Some with algal symbionts
+
+### Excavates
+
+- Flagellated, single cells
+  - Lack mitochondria
+  - Adapted to parasitism, low oxygen
+
+Euglenids
+
+- Mostly autotrophs
+- Photosynthetic
+- Heterotrophic
+- e.g., Euglena gracilis: has eyespot, has mitochondria and chloroplast
+
+Trypanosoma
+
+- Animal parasites
+- e.g., Trypanosoma brucei: cause sleeping sickness
+- e.g., Trypanosoma cruzi: cause Chagas disease
+
+Diplomonadida
+
+- two nuclei and flagella
+- look like two cells together
+
+Parabasala
+
+- undulating membrane
+
 ## Terminologies
 
 <a id="niche"></a>**niche**: the position of a species within an ecosystem, describing both the range of conditions necessary for persistence of the species, and its ecological role in the ecosystem
