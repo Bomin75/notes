@@ -1192,6 +1192,87 @@ Parabasala
 
 - undulating membrane
 
+## Evolution and Development
+
+- Genetic toolkits control growth and development
+- Changes in development 'switches' cause chagnes in gene expression
+
+Important point
+
+- Variation in _form_ comes from variation in _development_
+- All cells in all tissues within an organism contains the entire genome
+- Only subsets of the genome are expressed in any given cell
+
+### Evo-Devo
+
+**Evolutionary Developmental Biology**
+
+- Evolution in genes of embryonic development
+- Genes of development greatly regulate morphology
+
+**Homeotic genes**
+
+- Genetic toolkit that controls transcription of development genes
+- Small change in homeotic genes can produce LARGE changes in morphology
+- Common animal genes for 500 million years
+- Common genes in animals, plants, fungi, even prokaryotes
+
+### Hox genes
+
+- Control animal body plan
+- **Homeobox**
+  - 180 nucleotide DNA sequence
+  - Share by several genes involved in **morphogenesis** (the origin and dvelopment of morphological characteristics)
+  - Codes for **homeodomain** proteins: transcription factors that regulate gene expression and cell differentiation during early embryonic development
+
+![Hox_Genes](./Hox_Genes.png)
+
+Inference with Hox Genes
+
+- **Teratogens**: any agent that causes an abnormality following fetal exposure during pregnancy
+- **Accutane**(Isotretinoin) related to **retinoic acid**
+- **Thalidomide**: 1950s used to treat morning sickness. Banned in 1961
+  - Up to 20,000 affected across UK, Germany, Canada, Australia
+  - Changed rigour of preclinical testing, pregnancy category for drugs
+
+### Types of Hox Genes
+
+Antennapedia (antp)
+
+- Grow a leg
+- Normally this gene is 'on' in thorax and 'off' in head
+  ![Antennapedia](./Antennapedia.png)
+
+Ultrabithorax (Ubx)
+
+- Halteres become a second thorax
+
+Distal-less (dll)
+
+- Important for the formation of abbendages in many species
+- e.g., gripping spikes of water striders develop in male antennae
+  ![Disal-less](./Distal-less.png)
+  ![Hox_Genes_Selection](./Hox_Gene_Selective_Pressure.png)
+
+### Developmental Switches
+
+- Regulatory sites of transcription factors switch on or off downstream genes
+- Small changes in regulation produce large changes in morphology
+- Natural selection still determines success of regulatory genes
+
+### Stickleback Variants: spines in dorsal and pelvic area
+
+- Marine stickleback fish has spines while freshwater stickleback fish does not
+
+What are the genes that influence spine development?
+
+- From mice - Pitx1
+  ![Pitx1](./Pitx1.png)
+- However, Pitx1 was expressed for both marine and freswater stickleback fish
+- Degeneration of a regulatory domain in _Pitx1_ in stickleback leads to a decrease in expression in the hindlimb
+  ![Pitx1_Regulation](./Pitx1_Regulation.png)
+- Freshwater fish can grow pelvic spines with the hindlimb regulatory element restored
+
 ## Terminologies
 
 <a id="niche"></a>**niche**: the position of a species within an ecosystem, describing both the range of conditions necessary for persistence of the species, and its ecological role in the ecosystem
