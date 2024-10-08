@@ -139,3 +139,100 @@ Lysosomes
 
 - Contain their own genomes
 - Grow and multiply independently of other membrane compartments
+
+## Metabolism and Cell Energy
+
+### Microbiome
+
+- Consists of microbes that are helpful or harmful
+- The microbiome associated with the human body has more cells than human cells
+- Most are mutualists and commensals
+- In smaller numbers are pathogens (promoting disease)
+
+Age
+
+- Different age provides different microbiome profile
+
+## Chemical Reactions an Enzymes
+
+Core Concepts
+
+1. **Chemical Reactions**: involve the breaking and forming of bonds
+2. **Energetic Coupling**: spontaneous reactions drive a non-spontaneous reactions
+3. **Enzymes**: protein catalysts that can increase the rate of biochemical reactions
+4. **Allosteric Enzymes**: an enzyme that is activated or inhibited when binding to another moecule changes its shape
+
+### Chemical Reactions
+
+- Catabolic reactions + Anabolic reactions
+
+Free Radicals (Reactive Oxygen Species)
+
+- Free radicals steal electrons
+- Normal cells get damaged under oxidative stress due to free radicals
+- Consumption of antioxidants can prevent it e.g., Selenium
+- Selenoprotein translation generates proteins with selenocysteine that contain abundant selenium
+
+Gibbs Free Energy ($\Delta G$)
+
+- Energonic reaction: reactions with a positive $\Delta G$, require input of energy
+- Exergonic reaction: reactions with a negative $\Delta G$, release energy
+
+Energy Available
+$$\text{Total Energy} (H)=\text{energy available to do work} + \text{energy lost to entropy}$$
+$$\Delta G = \Delta H - T\Delta S$$
+
+Gibbs Energy in different reactions
+
+- Catabolic reaction:
+  $$\Delta G \downarrow = \Delta H \downarrow  - T\Delta S \uparrow$$
+- Anabolic reaction:
+  $$\Delta G \uparrow = \Delta H \uparrow - T\Delta S \downarrow$$
+
+### Energetic Coupling
+
+- A process in which spontaneous reactions ($\Delta G<0$) drive a non-spontaneous reaction ($\Delta G > 0$)
+
+e.g.,
+![Energetic_Coupling](./Energetic_Coupling1.png)
+Note that the two reactions share $P_i$, resulting in a coupled reaction
+
+![Energetic_Coupling2](./Energetic_Coupling2.png)
+Note that the entire process is still considered spontaneous as the Gibbs free energy is negative after driving the energonic reaction
+
+Intermediate Free Energy
+- ATP: energy provider
+![Intermediate_Free_Energy](./Intermediate_Free_Energy.png)
+
+Rate of a Reaction
+- Transition state: unstable, has large energy
+- Note that reactants require an activation energy, denoted $E_A$, to enter the transition state
+
+### Enzymes
+Protein catalysts that can increase the rate of biochemical reactions
+
+- Enzyme-Catalzed Reactions
+$$\text{Substrate} (S) \leftrightarrow \text{Product} (P)$$
+$$S + \text{Enzyme} (E) \leftrightarrow ES \leftrightarrow EP \leftrightarrow E + P$$
+
+Enzyme Shape
+- **Active site** binds the **substrate** and converts it to the product
+- Interaction between the substrate and the active site **decreases** the **activate energy** required
+
+Active Site Formation
+- The amino acids that form the active site are often composed of non-linear sequence of the unfolded enzyme
+- Often specific for substrates (**Enzyme Specificity**)
+
+Activators & Inhibitors
+- **Activators**: activate/promote enzyme activities
+- **Inhibitors**: 
+  - binds to the active site of the enzyme, competing with the substrate to reduce the rate of reaction
+  - binds to the allosteric site of the **allosteric enzymes** to alter the shape of the enzyme and prevent substrate bindings
+
+Why are some mushrooms toxic to human beings?
+- **Amatoxins** are selective inhibitors of RNA polymerase II, which is a vital enzyme in the synthesis of mRNA, microRNA, and snRNA
+
+### Allosteric Enzymes
+Regulation of Chemical Reactions
+- **Allosteric Enzyme**: an enzyme activated or inhibited by the change of shape resulting from the bindings of other molecules
+

@@ -15,7 +15,7 @@ Life displays great diversity with 10 million or more species. The unity and the
 Basic Definition:
 
 - Change through time
-- Decent with motification
+- Decent with modification
 - Darwin's "Pangenesis": proposal that each part of the body continually emits small particles called gemmules that contribute to the heritable information to the gametes
 
 **Biological** Definition:
