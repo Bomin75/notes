@@ -201,38 +201,175 @@ Note that the two reactions share $P_i$, resulting in a coupled reaction
 Note that the entire process is still considered spontaneous as the Gibbs free energy is negative after driving the energonic reaction
 
 Intermediate Free Energy
+
 - ATP: energy provider
-![Intermediate_Free_Energy](./Intermediate_Free_Energy.png)
+  ![Intermediate_Free_Energy](./Intermediate_Free_Energy.png)
 
 Rate of a Reaction
+
 - Transition state: unstable, has large energy
 - Note that reactants require an activation energy, denoted $E_A$, to enter the transition state
 
 ### Enzymes
+
 Protein catalysts that can increase the rate of biochemical reactions
 
 - Enzyme-Catalzed Reactions
-$$\text{Substrate} (S) \leftrightarrow \text{Product} (P)$$
-$$S + \text{Enzyme} (E) \leftrightarrow ES \leftrightarrow EP \leftrightarrow E + P$$
+  $$\text{Substrate} (S) \leftrightarrow \text{Product} (P)$$
+  $$S + \text{Enzyme} (E) \leftrightarrow ES \leftrightarrow EP \leftrightarrow E + P$$
 
 Enzyme Shape
+
 - **Active site** binds the **substrate** and converts it to the product
 - Interaction between the substrate and the active site **decreases** the **activate energy** required
 
 Active Site Formation
+
 - The amino acids that form the active site are often composed of non-linear sequence of the unfolded enzyme
 - Often specific for substrates (**Enzyme Specificity**)
 
 Activators & Inhibitors
+
 - **Activators**: activate/promote enzyme activities
-- **Inhibitors**: 
+- **Inhibitors**:
   - binds to the active site of the enzyme, competing with the substrate to reduce the rate of reaction
   - binds to the allosteric site of the **allosteric enzymes** to alter the shape of the enzyme and prevent substrate bindings
 
 Why are some mushrooms toxic to human beings?
+
 - **Amatoxins** are selective inhibitors of RNA polymerase II, which is a vital enzyme in the synthesis of mRNA, microRNA, and snRNA
 
 ### Allosteric Enzymes
+
 Regulation of Chemical Reactions
+
 - **Allosteric Enzyme**: an enzyme activated or inhibited by the change of shape resulting from the bindings of other molecules
 
+## Cellular Respiration
+
+Core concepts
+
+1. **Cellular Respiration**: a seris of catabolic reactions that convert the energy in fuel molecules into ATP
+2. **Glycolysis**: the partial oxidation of glucose, results in the production of pyruvates, ATP, and reduced electron carriers
+3. **Pyruvate Oxidation**: pyruvate is oxidized to acetyle-CoA, connecting glycolysis to the citric acid cycle
+4. **The Citric Acid Cycle**: results in the complete oxidation of fuel molecules, the generation of ATP and reduced electron carriers
+5. **The Electron Transport Chain**: transfers electrons from electron carriers to oxygen using the energy released to pump protons and synthesize ATP by oxidative phosphorylation
+
+### Cellular Respiration
+
+A series of catabolic reactions that convert the energy in fuel molecules into ATP
+
+- Break down carbohydrates, lipids, and proteins
+- Convert energy in fuel molecules into ATP
+- Allow the cell to do work
+
+Stages of Cellular Respiration
+
+1. Glycolysis (cytoplasm)
+2. Pyruvate Oxidation (Mitochondria)
+3. Citric Acid Cycle (Mitochondria)
+4. Oxidative Phosphorylation (Mitochondria)
+
+### Generating ATP
+
+- **Substrate-Level Phosphorylation**: ATP synthesis through hydrolysis reaction assisted forming an enzyme/substrate complex
+- **Oxidative Phosphorylation**: Majority of ATP production
+
+### Oxidation-Reduction Reactions
+
+- **Oxidation**: loss of electrons
+- **Reduction**: gain of electrons
+- The oxygen atom oxidizes the glucose, it can be called the **oxidizing agent**
+- Glucose is the **electron donor** and is considered the **reducing agent**
+
+### Electron carriers
+
+![Energy_Diagram](./Energy_Diagram.png)
+
+- $$NAD^+, NADH$$
+- $$FAD, FADH_2$$
+- The oxidized forms of these carriers are NAD+ and FAD
+- The reduced forms of these carriers are NADH and FADH_2
+
+### Glycolysis
+
+The partial oxidation of glucose and results in the production of pyruvate, as well as ATP and reduced electron carriers
+
+Phase 1
+
+- Preparatory phase
+- Consumption of 2 ATP
+- The phosphorylation of glucose traps the molecule inside the cell and de-stabilizes it making it ready for phase 2
+
+![Glycolysis_phase1](./Glycolysis_Phase1.png)
+
+Phase 2
+
+- Cleavage phase
+- 6-carbon sugar is separated into two 3-carbon molecules
+
+![Glycolysis_phase2](./Glycolysis_Phase2.png)
+
+Phase 3
+
+- Payoff phase
+- Production of 4 ATP and 2 NADH
+
+![Glycolysis_phase3](./Glycolysis_Phase3.png)
+
+Products of Glycolysis
+$$4 ATP - 2 ATP = 2 ATP \text{ (net gain)}$$
+$$2 NADH$$
+$$2 Pyruvate$$
+
+### Pyruvate Oxidation
+
+Pyruvate is oxidized to acetyle-CoA, connecting glycolysis to the citric acid cycle
+
+- The pyruvate is transported into the mitochondrial matrix from the cytosol
+- Then converted to acetyle-CoA within the mitochondria
+  ![Acetyle-CoA_Synthesis](./Acetyle-CoA_Synthesis.png)
+
+Products of Pyruvate Oxidation
+$$2 \times 1 CO_2$$
+$$2 \times 1 NADH$$
+$$2 \times 1 \text{Acetyle-CoA}$$
+
+### Citric Acid Cycle
+
+Results in the complete oxidation of fuel molecules and the generation of ATP and reduced electron carriers
+
+- The citric acid cycle is known as the **Kreb's cycle** and the **TCA cycle**
+- Takes place in mitochondrial matrix
+- Fuel molecules are completely oxidiezed in this stage
+
+Products of Citric Acid Cycle
+
+$$2 \times 1 ATP$$
+$$2 \times 3 NADH$$
+$$2 \times 1 FADH_2$$
+$$2 \times 2 CO_2$$
+
+### Electron Transport Chain
+
+Transfers electrons from electron carriers to oxygen, using the energy released to pump protons and synthesize ATP by oxidative phosphorylation
+
+- Electrons in NADH enter the ETC via complex I
+- Electrons in FADH2 enter the ETC via complex II
+
+Electron transport
+![ETC1](./ETC1.png)
+
+Proton transport and ATP synthesis
+![ETC2](./ETC2.png)
+
+- The proton gradient has two components
+  - A chemical gradient resulting from the different concentration of hydrogen ions
+  - An electrical radient resulting from the difference in charge between the two sides
+
+ATP Synthase
+
+![ATP_Synthase](./ATP_Synthase.png)
+
+- The rotation of the $F_0$ subunit -> roation of the $F_1$ subunit
+- The rotation of the $F_1$ subunit -> conformational changes that allow it to catalyze the synthesis of ATP
