@@ -828,6 +828,7 @@ Why controversial?
     - Vicariance events during the last ice age, when glaciers served as physical barriers are thought to be responsible for the origin of many modern species
     - **Continental drift**: the movement of continental plates explained by the theory of plate tectonic
     - Continental drift separated species physically over the long time
+    - e.g., Ratite birds: large, flightless birds
 
 #### Isolation and divergence in sympatry
 
@@ -845,7 +846,7 @@ Example
 
 ### Polypoidy leading to speciation
 
-- For example, tetraploid individuals are genetically isolated from wild-type individuals because they produce diploid gametes rathe rthan haploid gametes
+- For example, tetraploid individuals are genetically isolated from wild-type individuals because they produce diploid gametes rather than haploid gametes
 - If these gametes combined, the resulting zygote would be triploid
 - Triploid individuals produce gametes with a dysfunctional set of chromosomes e.g., seedless bananas
 
@@ -909,6 +910,8 @@ Others
 
 - Reinforcement
 - Speciation by hybridization
+
+![Isolated_Populations](./Isolated_Populations.png)
 
 ## Eukaryotes
 
