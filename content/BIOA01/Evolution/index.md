@@ -740,50 +740,16 @@ Note: derived traits are a subset of ancestral traits (derived traits are somewh
 
 ### What traits to use?
 
-1. Morphological
+| Traits               | Description                                                                                                                                                                                                              | Examples                                                                                                                         | Limitations                                                                                                                                                                                |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Morphological        | Most species have been described on the basis of morphological data                                                                                                                                                      | features of skeletal system in vertebrates<br><br>floral structures in plants<br><br>external features of exoskeleton in insects | comparing distantly related species -> too different<br><br>some species show few morphological differences -> too similar<br><br>some morphological variation affected by the environment |
+| Developmental        | Similarities in development patterns may reveal evolutionary relationships (look at embryos)                                                                                                                             | Sea squirts and vertebrates all have a _notochord_ at some time in their development                                             | complicated to quantify                                                                                                                                                                    |
+| Paleontological      | **Fossil** provide information about morphology of past organisms, and where and when they lived<br><br>Important in determining _derived_ and _ancestral_ traits<br><br>Important in determining when lineages diverged |                                                                                                                                  | Fossil record is fragmentary and missing for some groups                                                                                                                                   |
+| Behavioural          | Some behavioural traits are inherited                                                                                                                                                                                    | Frog calls are genetically determined -> used in phylogenetic trees                                                              | Some behavioural traits are culturally transmitted e.g., bird songs are learned                                                                                                            |
+| Molecular Characters | DNA, RNA, and amino acids changes reflect evolution<br><br>Abundant data<br><br>Easier comparison of distant or very close relations<br><br>No direct environmental effect                                               |                                                                                                                                  | Only four states in nucleotides<br><br>Only 20 states in amino acids<br><br>Base changes may have evolved independently                                                                    |
 
-- Most species have been described on the basis of morphological data e.g.,
-  - features of skeletal system in vertebrates
-  - floral structures in plants
-  - external features of exoskeleton in insects
-- Limitations
-  - comparing distantly related species -> too different
-  - some species show few morphological differences -> too similar
-  - some morphological variation affected by the environment
+More about Molecular Characters
 
-2. Developmental
-
-- Similarities in development patterns may reveal evolutionary relationships (look at embryos) e.g.,
-  - Sea squirts and vertebrates all have a _notochord_ at some time in their development
-- Limitations
-  - complicated to quantify
-
-3. Paleontological
-
-- **Fossil** provide information about morphology of past organisms, and where and when they lived
-- Important in determining _derived_ and _ancestral_ traits
-- Important in determining when lineages diverged
-- Limitations
-  - Fossil record is fragmentary and missing for some groups
-
-4. Behavioural
-
-- Some behavioural traits are inherited e.g.,
-  - Frog calls are genetically determined and can be used in phylogenetic trees
-- Limitations
-  - Some behavioural traits are culturally transmitted
-  - e.g., bird songs are often learned and may not be a useful trait
-
-5. Molecular characters
-
-- DNA, RNA, and amino acids changes reflect evolution
-- Pros:
-  - Abundant data
-  - Easier comparison of distant or very close relations
-  - No direct environmental effect
-- Cons:
-  - Only four states in nucleotides, 20 in amino acids
-  - Base changes may have evolved independently
 - **Molecular Clocks**: the number of changes, or mutations, which accumulate in the gene sequences of different species over time is relatively constant
   - Each DNA sequence has a different clock tick
   - Molecular differences between pairs of species are proportional to the time of their separation -> used to determine the time of divergence
