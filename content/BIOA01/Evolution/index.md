@@ -774,38 +774,12 @@ More about Molecular Characters
 - Defining species is extraordinarily contentious
 - \>20 different species concepts
 
-Linnaeus' morphological species concept
-
-- Linnaeus defined species based on their appearance
-- Originated [binomial](#binomial-system-of-nomenclature) [system](#binomial-system-of-nomenclature) [of](#binomial-system-of-nomenclature) [nomenclature](#binomial-system-of-nomenclature)
-- Idea: members of species look alike because they share many alleles
-- Limitations
-  - Does not reflect **sexual dimorphism**
-  - Immature individuals may not look like their parents (life cycle)
-
-More concepts
-
-1. Biological species concept
-
-- A species is a group of organisms that can interbreed and produce fertile offspring
-- Limitations
-  - Species hybridize and may produce offspring
-  - Plant cultivars
-  - Asexual organisms e.g.,
-    - an **androdioecous species**: males and hermaphrodites coexist
-    - a **gynogenetic species**: embryo only contains maternal chromosomes due to activation of an egg by sperm that degenerates without fusing with the egg nucleus
-
-2. Ecological species concept
-
-- A species is a group of organisms that share a distinct ecological niche
-- Idea: different species use ecological resources differently, to become divergent in behaviour and location
-- Not commonly used
-
-3. Phylogenetic species concept
-
-- A species is a group of organisms bound by a unique ancestry
-- Limitation
-  - **Introgression** due to hybridization
+| Species Concept         | Description                                                                                                                                                                                                                                          | Idea                                                                                                  | Limitation                                                                                                                                                                                                                                                                                      |
+| :---------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Linnaeus' morphological | Linnaeus defined species based on their appearance<br><br>Originated [binomial](#binomial-system-of-nomenclature) [system](#binomial-system-of-nomenclature) [of](#binomial-system-of-nomenclature) [nomenclature](#binomial-system-of-nomenclature) | Members of species look alike because they share many alleles                                         | Does not reflect **sexual dimorphism**<br><br>Immature individuals may look different (life cycle)                                                                                                                                                                                              |
+| Biological              | A species is a group of organisms that can interbreed and produce fertile offspring                                                                                                                                                                  |                                                                                                       | Species hybridize<br><br>Plant cultivars<br><br>Asexual organisms e.g., **androdioecous species**-males and hermaphrodites coexists / **gynogenetic species**-embryo only contains maternal chromosomes as a sperm from closely related species activates an egg and degenerates without fusing |
+| Ecological              | A species is a group of organisms that share a distinct ecological niche                                                                                                                                                                             | Different species use ecological resources differently, to become divergent in behaviour and location | Not commonly used                                                                                                                                                                                                                                                                               |
+| Phylogenetic            | A species is a group of organisms bound by a unique ancestry                                                                                                                                                                                         |                                                                                                       | **Introgression** due to hybridization                                                                                                                                                                                                                                                          |
 
 Why controversial?
 
