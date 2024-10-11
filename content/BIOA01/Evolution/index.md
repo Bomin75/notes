@@ -917,7 +917,7 @@ Others
 
 ### Protists
 
-- Protist (eykaryotes) evolved about 1.5
+- Protist (eykaryotes) evolved about 1.5 to 2 billion years ago
 - Protists are all the Eukaryotes except for green plants, fungi, and animals in the tree of life
 - Unlike Prokaryotes, Protists have:
   - A membrane-bound nucleus, with multiple, linear chromosomes
@@ -940,15 +940,15 @@ Protists are Diverse
 
 - **Habitat**: Aqueous
   - Aquatic or moist terrestrial locations
-  - Oceans, freshwater lakes, ponds, streams, and moist soild an dwithint host organisms
+  - Oceans, freshwater lakes, ponds, streams, and moist soild and within host organisms
 - **Structure**: unicellular or colonies with little differentiation
   - Some are large multicellular organisms (giant kelp)
 
 ### Eukaryotic Cell
 
 - The nuclear membrane separates transcription and translation in eukaryotes (\* Defining feature of eukaryotes)
-- Energy metabolism that requires membran stability is confined to organelles
-- The cytoskeleton enables cells to change shape by remodeling quickly -> promote differntiation
+- Energy metabolism that requires membrane stability is confined to organelles
+- The cytoskeleton enables cells to change shape by remodeling quickly -> promote differentiation
 - Vesicles budding off from membranes transport materials into the cell in endocytosis, and release material from the cell in exocytosis
 - A network of membranes are able to change shape and package molecules and particles for transport within the cell
   ![Eukaryotic_Cell](./Eukaryotic_Cell.png)
@@ -971,11 +971,14 @@ Plants
 ### Intracellular Protist Structures
 
 - **Contractile vacuole**: pumps water to prevent lysis in freshwater
+  ![Contractile_Vacuole](./Contractile_Vacuole.png)
 - **Pellicile**: layer of supportive protein fibers under plasma membrane
+  ![Pellicile](./Pellicle.png)
 - **Pseudopodia**: lobes of cytoplasm for amoeboid movement
   - Used to engulf food
+    ![Pseudopodia](./Pseudopodium.png)
 
-Tyeps of Locomotions
+Types of Locomotions
 ![Locomotion](./Locomotion.png)
 
 The Mitochondrion
@@ -985,7 +988,7 @@ The Mitochondrion
   - **Symbiosis** occurs when individuals of two different species live in physical contact
   - **Endosymbiosis** occurs when an organism of one species lives inside an organism of another species
     ![Endosymbiosis](./Endosymbiosis.png)
-- Eukaryotic cells used cytoskeletal elements to engult aerobic bacteria
+- Eukaryotic cells used cytoskeletal elements to engulf aerobic bacteria
 - Eukaryote supplied the bacterium with protection and carbon
 - The bacterium oxidized the carbon and supplied the host cell with ATP
 - Characteristics of Mitochondria supporing the endosymbiosis theory:
