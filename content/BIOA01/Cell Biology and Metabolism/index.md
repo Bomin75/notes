@@ -25,13 +25,21 @@ draft = false
 - The cell is the fundamental unit of life
 - Cells come from pre-existing cells
 
+Evolution of Cellular Differentiation
+![Evolution_of_Cellular_Differentiation](./Evolution_of_Cellular_Differentiation.png)
+
+Microscopy
+
+- Cryo-EM is developed in 2017
+  ![Microscopy](./Microscopy.png)
+
 ### Cell Membranes
 
 Phospholipids
 
-- Polar head group (glycerol backbone, phosphate, choline) is hydrophilic
-- Fatty acid chains are hydrophobic
-- -> Phospholipids are **amphipathic**
+- Phospholipids are **amphipathic**
+  - Polar head group (glycerol backbone, phosphate, choline) is hydrophilic
+  - Fatty acid chains are hydrophobic
 
 Lipid Structures
 
@@ -59,18 +67,23 @@ Membrane Proteins
 
 ### The Plasma Membranes
 
+- Selective barrier that controls the movement of molecules between the inside and the outside of the cell (**selectively permeable**)
+
 Diffusion
 
 - The simplest movement into and out of cells
 - Passive transport
 - **Simple Diffusion**: direct transport of molecules allowed by the cell membrane
-- **Facilitated Diffusion**: assisted transport of molecules through the action of transmembrane proteins such as carriers and channels
+- **Facilitated Diffusion**: assisted transport of molecules through the action of transmembrane proteins e.g., carriers, channels
 
 Osmosis
 
 - Diffusion of water
 - Effects of osmosis
   ![Effects_of_Osmosis](./Effects_of_Osmosis.png)
+
+[Hypertonic](#hypertonic)
+[Hypotonic](#hypotonic)
 
 ### Plant Cell Wall and Vacuoles
 
@@ -79,6 +92,14 @@ Vacuole
 - Storage of water and nutrients
 - Storage and disposal of waste products and
 - Supported by **turgor pressure**: force exerted by water pressing against an object
+
+_Magnaporthe grisea_ and turgor pressure
+
+- _M. grisea_ first attach to the leaves
+- Then, synthesize melanin to incrase its turgor pressure
+- Use the high turgor pressure to penetrate through host organism
+- Subseuently occupy the host organism
+- Absorb nutrients
 
 ### Types of Transport
 
@@ -102,6 +123,10 @@ Active Transport
   - The antiporter move a different molecule out of the cell against its concentration gradient
 
 ### The Endomembrane System
+
+- an interconnected system of membranes that includes the nuclear envelope, ER, Golgi apparatus, lysosomes, vesicles, and plasma membrane
+
+Intercellular Movement of Molecules
 
 - **Exocytosis**: vesicles generated from the endomembrane system fusing with the plasma membrane to deliver its contents into the extracellular space
 - **Endocytosis**: material from outside the cell being brought into a vesicle
@@ -140,18 +165,110 @@ Lysosomes
 - Contain their own genomes
 - Grow and multiply independently of other membrane compartments
 
+### Distinguishing features of plants
+
+- Cell wall
+- Vacuole
+- Chloroplasts
+- Autotroph
+
 ## Metabolism and Cell Energy
+
+Core concepts
+
+1. **Metabolism**: the set of biochemical reactions that transform biomolecules and transfers energy
+2. **Kinetic energy**: energy of motion
+3. **Potential energy**: stored energy
+4. **The laws of thermodynamics**: law that governs energy flow in biological systems
+
+What do cells need?
+
+- A membrane to separate the inside of the cell from the outside
+- A way to encode and transmit information
+- **ENERGY**
+
+Adenosine Triphosphate (ATP)
+![Energy_Level_of_ATP](./Energy_Levels_of_ATP.png)
+
+- ATP stores potential energy using the bonds connecting the phosphate groups
+- The energy level stored in each bond is different
+- The highest energy bond is at the outer layer
+
+### Metabolism
+
+- The set of biochemical reactions that transforms biomolecules and transfers energy
+
+Metabolic Classification
+![Metabolic_Classification](./Metabolic_Classification.png)
+
+Types of Reactions
+
+- **Catabolism**: breakdown of a molecule e.g., breakdown of macromolecules (carbs, proteins, fats, nucleic acids) into subunits (sugars, amino acids, fatty acids, nucleotides)
+  - Energy is released
+  - ADP -> ATP
+- **Anabolism**: construction of a molecule e.g., construction of macromolecules (carbs, proteins, fats, nucleic acids) from subunits (sugars, amino acids, fatty acids, nucleotides)
+  - Energy is consumed
+  - ATP -> ADP
+
+### Kinetic Energy
+
+- Energy of motion
+
+### Potential Energy
+
+- Stored energy
+
+Chemical Energy
+
+- A form of potential energy held in the chemical bonds between pairs of atoms in a molecule
+- Strong bonds have less potential energy
+
+Packaged Energy
+
+- ATP, a currency of energy
+- Cells do not use all the available energy at once
+- Cells package the energy into a chemical form that is readily accessible to the cell
+- Chemical energy of ATP is held in the bonds linking the phosphate groups
+- Break of each bond releases energy
+
+### The Laws of Thermodynamics
+
+- Governs energy flow in biological systems
+
+First Law of Thermodynamics
+
+- Conservation of energy
+  ![First_Law_of_Thermodynamics](./First_Law_of_Thermodynamics.png)
+
+Second Law of Thermodynamics
+
+- Energy transformation
+  ![Second_Law_of_Thermodynamics](./Second_Law_of_Thermodynamics.png)
+
+Entropy
+
+- Describes the amount of disorder
+  ![Entropy](./Entropy.png)
 
 ### Microbiome
 
 - Consists of microbes that are helpful or harmful
 - The microbiome associated with the human body has more cells than human cells
-- Most are mutualists and commensals
+- Most are [mutualists](#mutualist) and [commensals](#commensal)
 - In smaller numbers are pathogens (promoting disease)
+
+Metabolism and Energy Efficiency of Human Host
+![Microbiome](./Microbiome.png)
+
+- Human provides nutrient
+- Microbiota regulate metabolism through hormone signals
 
 Age
 
 - Different age provides different microbiome profile
+- That way, age of the host can be predicted using microbiome
+- Also the health conditions of the host can be measured
+  ![Microbiome_by_Age](./Microbiome_by_Age.png)
 
 ## Chemical Reactions an Enzymes
 
@@ -245,7 +362,7 @@ Regulation of Chemical Reactions
 
 - **Allosteric Enzyme**: an enzyme activated or inhibited by the change of shape resulting from the bindings of other molecules
 
-## Cellular Respiration
+## Cellular Respiration I
 
 Core concepts
 
@@ -373,3 +490,215 @@ ATP Synthase
 
 - The rotation of the $F_0$ subunit -> roation of the $F_1$ subunit
 - The rotation of the $F_1$ subunit -> conformational changes that allow it to catalyze the synthesis of ATP
+
+## Cellular Respiration II
+
+Core Concepts
+
+1. **Anaerobic Metabolism**: breakdown of glucose through fermentation, produces a modest amount of ATP
+2. **Fermentation**: a process for extracting energy from fuel molecules without relying on oxygen or ETC, use an organic molecule
+3. **Metabolic Integration**: metabolic pathways are integrated, allowing control of the energy level of cells
+
+The Flow of Energy in Cellular Respiration
+
+- 4 ATP produced by substrate-level phosphorylation per glucose
+- Some energy transferred to 10 NADH and 2 FADH2 per glucose
+- ATP Synthase converts the gradient to rotational energy to produce 28 ATP per glucose
+
+### Anaerobic Metabolism
+
+- breakdown of glucose through fermentation, produces a modest amount of ATP
+
+![Anaerobic_Metabolism](./Anaerobic_Metabolism.png)
+
+### Fermentation
+
+- a process for extracting energy from fuel molecules without relying on oxygen or ETC, use an organic molecule
+- In the absence of oxygen, pyruvate molecules undergo fermentation instead of pyruvate oxidation
+
+Lactic acid Fermentation
+
+- Occur in anaerobic bacteria
+- 2 Pyruvate is produced through glycolysis per glucose
+- 2 Pyruvate is reduced to 2 lactic acid
+- 2 NADH is oxidized to 2 NAD+
+- 2 NAD+ is reused to produce 2 ATP in glycolysis
+  ![Lactate_Fermentation](./Lactic_Acid_Fermentation.png)
+- e.g., production of yakult
+  ![Lactate_Fermentation_Example](./Lactic_Acid_Fermentation_Example.png)
+
+Ethanol Fermentation
+
+- Occur in yeast
+- 2 Pyruvate is produced through glycolysis per glucose
+- 2 Pyruvate lose 2 CO2 and form 2 Acetaldehyde
+- 2 Acetaldehyde is reduced to 2 ethanol
+- 2 NADH is oxidized to 2 NAD+
+- 2 NAD+ is reused to produce 2 ATP in glycolysis
+  ![Ethanol_Fermentation](./Ethanol_Fermentation.png)
+- e.g., wine, beers, bread
+
+Rising Levels of Atmospheric Oxygen
+
+- Before the presence of atmospheric oxygen, the earliest organism used one of the fermentation pathways
+- Fermentation provide quick burst of ATP
+- Higher efficiency in certain environments
+
+### Metabolic Integration
+
+- Metabolic pathways are integrated, allowing control of the energy level of cells
+
+Glycogen Storage
+
+- Glycogen has a core protein
+- A core protein is surrounded by branches of glucose units
+- Glycogen is stored in muscle cells -> muscle contraction
+- Glycogen is stored in liver cells -> deliver energy and support cells
+- Glucose molecules at the end of the branches can be cleaved one at a time
+- Cleaved molecule is converted from glucose 1-phosphate to glucose 6-phosphate to undergo glycolysis
+
+How other Sugars contribute to Glycolysis
+
+- Monosaccharide, Disaccharide
+  ![Sugar1](./Sugar1.png)
+- Polysaccharide
+  ![Sugar2](./Sugar2.png)
+
+Ruminants and Microbes
+
+- Ruminants do not have an enzyme to digest cellulose
+- Rumens of herbivore ruminants are colonized by
+  - Bacteria
+  - Archaea
+  - Fungi
+  - Bacteriophages
+- Microbes living in the rumen of the ruminants degrade cellulose
+
+Evolution of Mitochondria
+
+- Some eukaryotes lack mitochondria, possess **mitosome** instead
+  ![Mitosome](./Mitosome.png)
+
+Hydrogenosomes in Anaerobic Fungi
+
+- Hydrogenosomes are H2-producing mitochondrial homologs found in some anaerobic microbial eukarytoes
+- Hydrogenosomes (H) are small (~0.5 um diameter)
+- Spherical or variously elongate organelles
+
+Regulation of Cellular Respiration
+![Regulation_of_Cellular_Respiration](./Reguation_of_Cellular_Respiration.png)
+
+## Photosynthesis I
+
+Core Concepts:
+
+1. **Photosynthesis**: the major pathway by which energy and carbon are incorporated into carbohydrates
+2. **The Calvin Cycle**: a three-step process that synthesizes carbohydrates from carbon dioxide
+3. **Capturing Sunlight into Chemical Forms**: the light-harvesting reactions that use sunlight to produce the ATP and NADPH required by the Calvin Cycle
+
+### Photosynthesis
+
+- the major pathway by which energy and carbon are incorporated into carbohydrates
+
+Energy in Biological Systems
+
+- Photosynthesis provides an entry point to the majority of energy
+
+Survival in Diverse Environment
+
+- In desert, photosynthesis bacteria and unicellular algae form an easily disturbed layor on the surface (**desert crust**)
+  ![Photosynthetic_Microbe_Distribution](./Photosynthetic_Microbe_Distribution.png)
+- Some live in extreme environment e.g., hot spring, glacier
+
+Uncommon Photosynthetic Players
+
+- _Nostoc sp._: example of a symbiosis
+  ![Nostoc](./Nostoc.png)
+- _Geosiphon pyriforme_
+  ![G.pyriforme](./Geosiphon_pyriforme.png)
+- Lichen: fungi + algae/cyanobacteria
+  - Multiple fungal elements can be involved
+    ![Lichen](./Lichen.png)
+
+General Equation for Photosynthesis
+$$CO_2 + H_2O \rightarrow C_6H_{12}O_6 + O_2$$
+
+- Type of a reaction
+- Oxidation of water is linked with the reduction of carbon dioxide
+- Series of redox reaction to oxidize water make up the **photosynthetic electron transport chain**
+
+Photosystem
+
+- Photosynthesis begins with the absorption of light by protein-pigment complexes (**photosystems**)
+- Absorbed light is used to drive redox reactions
+- The movement of electrons through the chain is used to drive the synthesis of ATP and NADPH
+- ATP and NADPH are the energy sources required for Calvin cycle
+
+The Chloroplast
+
+- Thylakoid membranes form structures that resemble flattened sacs, grouped into grana
+  ![Chloroplast](./Chloroplast.png)
+
+Cellular Respiration vs. Photosynthesis
+
+![Cell_Resp_vs_Photo](./Cell_Resp_vs_Photosynthesis.png)
+
+- Notice that the reactions are the opposite of one another
+- Photosynthesis generates fuel molecules (by fixing carbons)
+
+### The Calvin Cycle
+
+- a three-step process that synthesizes carbohydrates from carbon dioxide
+
+Three steps
+
+1. Carboxylation: addition of CO2 to the 5-carbon compound, RuBP (done by **rubisco**)
+
+- 6-carbon molecule is broken down into two 3-carbon molecules, **3-PGA**
+
+2. Reduction: energy input form ATP and NADPH
+
+- **NADPH** is the reducing agent
+- The reduction of 3-PGA requires ATP and NADPH
+
+3. Regeneration of RuBP: 3-carbon compounds are reorganized and combined to produce RuBP
+
+- $$5\times 3C \rightarrow 3 \times 5C$$
+
+Energy Storage
+
+- Excessively produced glucose is stored as starch granules
+
+### Sunlight into Chemical Forms
+
+- the light-harvesting reactions that use sunlight to produce the ATP and NADPH required by the Calvin Cycle
+
+Light Absorption
+
+- Light is a type of electromagnetic radiation
+- Pigments absorb some wavelegths of visible light
+- Pigments look colored as they reflect light enriched in the wavelengths that they do not absorb
+  ![Spectrum](./Light_Spectrum.png)
+
+Chlorophyll Light Absorption
+
+- Chlorophyll appears green as it poorly absorbs green wavelengths
+- Chlorophyll molecules are bound by their tail region to integral membrane proteins in the thylakoid membrane
+- Hydrocarbon tail anchors the chlorophyll to cell
+  ![Hydrocarbon_tail](./Hydrocarbon_Tail_of_Chlorophyll.png)
+- Light energy is absorbed through chlorophyll in an electorns and sent to reaction center
+
+Reaction Center
+
+- Possess distinct configuration
+- Transfer energy to the electron acceptor
+
+## Terminologies
+
+<a id="hypertonic"></a>**hypertonic**: having a lower concentration of solute
+
+<a id="hypotonic"></a>**hypotonic**: having a higher concentration of solute
+
+<a id="mutualist"></a>**mutualist**: a type of relationship between the host and symbiont where both organisms benefit and no one is harmed
+
+<a id="commensal"></a>**commensal**: a type of relationsip between the host and symbiontwhere one species obtains food or other benefits from the other without harming or benefiting the latter
