@@ -693,6 +693,118 @@ Reaction Center
 - Possess distinct configuration
 - Transfer energy to the electron acceptor
 
+## Photosynthesis II
+
+Core Concepts
+
+1. **Photosynthesis Challenge**: challenges to the efficiency of photosynthesis include excess light energy and the oxygenase activity of rubisco
+2. **The evolution of photosynthesis**: a profound impact on life on Earth
+
+### Photosynthesis Challenge
+
+Reaction Center
+![Reaction_Center](./Reaction_Center.png)
+
+Two Photosystems
+![Two_Photosystems](./Two_Photosystems.png)
+
+- **Z Scheme** describes change in energy level of the electron as it goes through the photosystems
+- **PS II** supplies electrons to the beginning of the ETC
+- **PS I** energizes the electrons with a second input of energy -> provide enough energy to reduce NADP+
+- **Electron carriers** (e.g., Pq, Pc, Fd) are responsible for moving electrons between complexes
+  ![NADPH_Synthesis](./NADPH_Synthesis.png)
+
+Proton Accumulation
+
+- There are two sources of options
+  - Through **water oxidation**
+  - Through the **cytochrome b6f complex**
+    ![Proton_Transport](./Proton_Transport.png)
+
+Cyclic Electron Transport
+
+- To increase ATP production, electrons are shunted into an alternative pathway via **ferredoxin** (Fd)
+- Result in pumping more protons
+  ![Cyclic_ETC](./Cyclic_ETC.png)
+
+#### Photosynthesis Challenge I: excess light energy
+
+- If the light density is too high, the high-energy electrons will lose a safe place to go
+- Increased change to create **Reactive Oxygen Species** (ROS)
+
+Reactive Oxygen Species
+
+![Challenge1](./Photosynthesis_Challenge_1.png)
+
+- Releases harmful free radical
+- NADP+ is in short supply
+- -> Either the absorbed light energy or the energy associated electron can be transferred to O2
+- -> Formation of ROS
+- Antioxidants can neutralize ROS
+- Xanthophylls can slow the formation of ROS
+  - By reducing excess light energy
+  - Yellow-orange pigmenst
+
+![Solution1](./Photosynthesis_Solution_1.png)
+
+#### Photosynthetic Challenge II: the oxygenase activity of rubisco
+
+![Challenge2](./Photosynthesis_Challenge_2.png)
+
+- Photorespiration occurs when rubisco adds O2 instead of CO2 to RuBP (rubisco accepts both as substrates)
+- Photorespiration can be reduced through C4 cycle (e.g., Corn)
+  - Increase CO2 concentration
+  - PEP carboxylase synthesizes 4-C molecules
+  - CO2 is passed to the bundle-sheath cell, where the Calvin cycle occurs
+
+![Solution2](./Photosynthesis_Solution_2.png)
+
+Photosynthetic Efficiency
+![Photosynthetic_Efficiency](./Photosynthetic_Efficiency.png)
+-Efficiency of \<4%
+
+Cell-free Solar-to-starch Efficiency
+
+- Perfom photosynthesis in lab
+- Efficiency of 9%
+
+### The evolution of photosynthesis
+
+Step 1: two phosotytems
+![Two_Photosystems](./Evolution_of_Photosynthesis_1.png)
+
+Step 2: endosymbiosis
+![Endosymbiosis](./Evolution_of_Photosynthesis_2.png)
+
+Horizontal Gene Transfer (HGT)
+
+Methods prevalent in Prokaryotes
+
+- **Conjugation**
+  ![Conjugation](./Conjugation.png)
+  - DNA from a donor cell is transferred to an adjacent recipient cell
+  - Pilus tethers the donor to the recipient
+  - Bring the cells together
+  - Once closely aligned, DNA passes through the small opening formed
+  - e.g., genes that confer resistence to antibiotics
+- **Transformation**
+  ![Transformation](./Transformation.png)
+  - DNA is released to the environment by dead cells and taken up by a recipient cell
+- **Transduction**
+  ![Transduction](./Transduction.png)
+  - Transfer by a virus
+  - Viruses that have infected bacterial cells can integrate their DNA into the host bacterial cell
+  - Before leaving the bacterial host, the viral DNA removes itself
+  - Sometimes removal of viral DNA involves the additional takeup of the host DNA
+
+HGT between Eukaryotes
+
+- HGT of Carotenoid genes from fungi to Aphids
+- HGT of ubiquitine genes from insects to fungi
+
+Note: ghost plant cannto photosynthesize -> steal from fungi
+Note: red maple leaves still can perform photosynthesis through other yellow/brown coloured pigments
+
 ## Terminologies
 
 <a id="hypertonic"></a>**hypertonic**: having a lower concentration of solute
