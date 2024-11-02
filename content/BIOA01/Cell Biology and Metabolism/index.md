@@ -805,6 +805,501 @@ HGT between Eukaryotes
 Note: ghost plant cannto photosynthesize -> steal from fungi
 Note: red maple leaves still can perform photosynthesis through other yellow/brown coloured pigments
 
+## Cell Cycle
+
+Core Concepts
+
+1. During **cell division**, a single parental cell divides into two daughter cells
+2. **Mitotic cell division** is the basis of asexual reproduction in unicellular eukaryotes and the process by which cells divide in multicellular eukaryotes
+3. **Meiotic cell division** is essential for sexual reproduction, the production of offspring that combine genetic material from two Integral_Peripheral_Membrane_Proteins
+
+### Cell Division
+
+- A single parent cell divides into two daughter cells
+- The process by which cells make more cells
+- Purpose
+  - Growth
+  - Cell replacement
+  - Healing
+  - reproduction
+- Requirements
+  - Two daughter cells must each receive the full complement of genetic material present in the single parent cell
+  - The parent cell must be large enough to divide into two and still contribute sufficient cytoplasmic components to each daughter cell
+
+#### Prokaryotes
+
+Binary Fission
+
+1. The circular bacterial DNA molecule is attached by proteins to the inner membrane
+2. DNA replication begins at a specific location and proceeds bidirectionally around the circle
+3. The newly synthesized DNA molecule is also attached to the inner membrane, near the attachment site of the initial molecule.
+4. As replication proceeds, the cell elongates symmetrically around the midpoint, separateing the DNA attachment sites.
+5. Cell division behinds with th synthesis of new membrane and wall material at the midpoint
+6. Continuted synthesis completes the constriction and separates the dauther cells
+   ![BinaryFission123](./BinaryFission123.png)
+   ![BinaryFission456](./BinaryFission456.png)
+
+| Eukaryotes                 | Prokaryotes                  |
+| -------------------------- | ---------------------------- |
+| Genome is large and linear | Genome is small and circular |
+| DNA found in the nucleus   | DNA found in the cytoplasm   |
+
+Cell Cycle (Eukaryotes)
+
+![CellCycle](./CellCycle.png)
+
+- **M phase**: time during which the parent cell divides into two daughter cells
+- **Interphase**: time between two successive M phases
+  - Cells make many preparations for division
+  - e.g., replication of DNA and increase in the cell size
+
+![DNACountvsCellCount](./DNAContentVsCellCount.png)
+
+Eukaryotic DNA Organization
+
+- DNA is organized with histones and other proteins into chromatin
+- Chromatin can be looped and packaged to form chromosomes
+
+Karyotype
+
+- Profile of the chromosomes in a certain species
+  ![Karyotype](./Karyotype.png)
+
+Haploid/Diploid
+
+- Haploid: cells with a single set of chromosomes e.g, human gametes
+- Diploid: cells with paired chromosomes
+
+Centromeres/Chromatids
+![Centromere_Chromatids](./Centromere_Chromatids.png)
+
+- Note that the sister chromatids are analogous to each other as they are duplicated
+
+### Mitotic Cell Division
+
+- The basis of asexual reproduction in unicellular eukaryotes and the process by which cells divide in multicellular eukaryotes
+
+#### Prophase
+
+- Chromosomes condense
+- Centrosomes radiate microtubules and migrate to opposite poles
+
+#### Prometaphase
+
+- Mitrotubules of the mitotic spindle attach to chromosomes
+
+#### Metaphase
+
+- Chromosomes align in center of cell
+
+#### Anaphase
+
+- Sister chromatids separate and travel to opposite poles
+
+#### Telophase
+
+- Nuclear envelope re-forms
+- Chromosomes decondense
+- The end of mitosis
+
+#### Cytokineses (Animal)
+
+- **Contractile ring** forms to divide and cleave the cytoplasm
+
+#### Cytokineses (Plant)
+
+- **Cell plate** forms to divide the cytoplasm
+
+### Meiotic Cell Division
+
+- Essential for sexual reproduction, the production of offspring that combine gneetic mateirla from two parents
+- Meiosis I, homologous chromosomes separate
+- Meiosis II, sister chromatids separate
+- Results in four daughter cells
+- Each daughter cell contains a half number of chromosomes as in the parent cell
+- Each daughter cell is genetically unique
+
+#### Meiosis I
+
+- **Reductional division** as the number of chromosomes in daughter cells are reduced by half
+- the centromeres do not split during this stage of meiosis
+
+#### Prophase I
+
+- Chromosomes become visible as thin threads (DNA replication is complete)
+- Homologous chromosomes condense, undergo synapsis (gene-for-gene pairing)
+- Each pair of homologous chromosomes forms a bivalent (each chromosome consists of two sister chromatids)
+- Chromosomes shorten and thicken
+- Nuclear envelope break down
+
+#### Crossing Over
+
+- Meiosis allows homologous chromosomes of maternal and paternal origin to undergo an exchange of DNA sements
+- Contribute to the genetic variation
+- Crossing over also helpes hold together the bivalents for metaphase I
+  ![CrossingOver](./CrossingOver.png)
+
+#### Prometaphase I
+
+- Spindles attach to kinetochores on chromosomes
+
+#### Metaphase I
+
+- Homologous pairs line up in center of cell, with bivalents oriented randomly with respect to each other
+- Contribute to the genetic variation
+
+#### Anaphase I
+
+- Homologous chromosomes separate, but sister chromatids do not
+
+#### Telophase I
+
+- Reformation of nucleus envlope
+
+#### Cytokinesis
+
+- Separation of cytoplasm
+
+#### Meiosis II
+
+- The process resembles mitosis except phrophase II (have haploid, not diploid)
+- No DNA synthesis between two meiotic divisions
+- Meiosis II is called **equational division** because cells in meiosis II have the same number of chromosomes in the beginning and in the end
+
+Mitosis vs. Meiosis
+
+- During meiosis I, maternal and paternal homologs separate from each other
+- During meiosis II, sister chromatids separate from each other (similar to mitosis)
+
+Cytoplasmic Division
+
+- In females, the cytoplasm is divided very unequally in both meiotic divisions to form an egg
+- In males, the cytoplasm divides fairly equally, resulting in products of functional sperms
+  ![CytoplasmicDivisionFemaleMale](./CytoplamicDivision_FemaleMale.png)
+  Note that the original number of chrosomomes (2n) is restored through the formation of zygote as a result of combination between Oocyte and a sperm cell
+
+## Regulation of Cell Cycle and Cancer
+
+Core Concepts
+
+1. **Nondisjunction** results in extra or missing chromosomes
+2. **Cell cycle regulation**: the cell cycle is regulated so that cell division occurs only at appropriate times and places
+3. **Cancer** is uncontrolled cell division that results from mutations in genes that control cell division
+
+### Nondisjunction
+
+- results in extra or missing chromosomes
+
+First-division
+
+- Result in gametes with an extra or missing chromosome
+  ![First-division](./First-division-nondisjunction.png)
+
+Second-division
+
+- REsults in gametes with an extra chromosome, a missing chromosome, and normal numbers of chromosomes
+  ![Second-division](./Second_division_nondisjunction)
+
+Trisomy 21: Down Syndrome
+
+- Three 21 chromosomes present
+
+Nondisjunction in species with different reproduction strategies
+![nondisjunctions](./nondisjunctions.png)
+
+### Cell cycle regulation
+
+- The cell cycle is regulated so that cell division only occurs when and where appropriate
+
+Regulation
+
+- Cell division cannot occur all the time because uncontrolled division is dangerous and can lead to cancer
+- The proteins that appear and disappear cyclically are called **cyclins**
+  ![Cyclins](./cyclins.png)
+- Enzymes activated by cyclins are called **cyclin-dependent kinases (CDK)**
+- Once the CDK are activated by cyclins, cell division is promoted
+
+Cyclin level through the Cell Cycle
+![Cycline_Level](./Cyclin_Level.png)
+
+Cyclin-CDK Complexes
+
+- Cyciln D and E -CDK are actie at the end of G1
+  - Promotes the expression of histone proteins
+- Cyclin A-CDK is involved in the initiation of DNA synthesis
+  - Prevents the reassembling of the same proteins and re-replicating the same DNA
+- Cycling B-CDK, initiates multiple events associated with mitosis
+  - Breakdown of the nuclear envelope during prophase
+  - Formation of mitotic spindles
+    ![Cyclin_Levels_per_phase](./Cyclin_level_per_phase.png)
+
+Checkpoints
+![Checkpoints](./Checkpoints.png)
+
+DNA Damage Checkpoints
+![DNA_Damage_Checkpoints](./DNA_Damage_Checkpoint.png)
+
+- This arrests the cell at the G1/S transition, giving the cell time to repair the DNA damange
+
+### Cancer
+
+- uncontrolled cell division that results form mutations in genes that control cell division
+  ![Cancer_cell_division](./Cancer_Cell_division.png)
+
+Cancer and oncogenes
+
+- **Proto-oncogenes**: normal genes that are important in cell division that have the potential to become cancerous if mutated (can be mutated by cancer-causing agents)
+- **Oncogene**: cancer-causing gene
+- **Tumor suppressors**: encode proteins whose normal activities inhibit cell division
+
+Cancer causing agents
+
+- Virus
+  ![Virus_causing_Cancer](./Virus_causing_cancer.png)
+  - Cancerous viral RNA is injected to the host genome
+- Pathogens
+  ![Pathogen_causing_cancer](./pathogens_causing_cancers.png)
+  - Helicobactor Pylori is a cancer-causing bacteria
+  - HBV, HCV, and HPV are cancer-causing virus
+
+Multiple-Mutation Model for Cancer Development
+![Multiple_mutation_model](./Multiple-mutation_model.png)
+
+Types of Cancer Treatment
+
+- Hormone therapy
+- Surgery
+- Bone Marrow Transplantation
+- Chemotherapy
+- Targeted theraphy
+- Radiation therapy
+- Immunotherapy
+- Note that cancer is difficult to treat as it begins from healthy cells -> challenge is to selectively kill the affected cells
+
+Fungus, Cordycepin, NUC-7738
+
+- Cordycepin inhibits DEK
+
+Medicinal mushroms
+
+- The Jack-o-Lantern fungus is bioluminescent (the glow "foxfire")
+- Poisonous but the source of a new cancer drug in clinical trials
+
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats)
+
+- CRISPR can be used to fight against cancer
+  ![CRISPR_as_treatment](./CRISPR_cancer.png)
+- Modify the T-cells with CRISPR
+  -NY-ESO-1 TCR precisely recognizes the cancer cell
+
+Comparison of Mitosis and Meiosis
+![Mitosis_vs_Meiosis](./Comparison_of_Mitosis_and_Meiosis.png)
+
+## Fungal Cells
+
+Core Concepts
+
+1. FUngi are **heterotrophic eukaryotes** that feed by absorption
+2. Fungi reproduces both **sexually and asexually**, and disperse by **spores**
+
+### Fungi
+
+- Fungi are responsible for
+  - the **decomposition** of plants and animal tissues
+  - locate and break down the complex molecules and bulky tissues
+  - **cycle carbon**
+- **Heterotrophs**: depend on pre-existing organic molecules for carbon and energy
+- Release enzymes to break down complex organic molecules e.g., starch, cellulose, and lignin
+- Absorb the digested organic molecules directly through their cell walls
+
+![Fungal_Hyphae](./Fungal_hyphae.png)
+
+#### Fungal Hyphae
+
+- Most fungi are multicellular
+- Consist of highly branched filaments, **hyphae**
+- No mode of locomotion
+- Use growth to find nourishment
+- **Mycelium**: a network of branching hyphae
+
+Hyphal Growth
+![Hyphal_Growth](./Hyphal_Growth.png)
+
+#### Material Transport
+
+- Cell walls are made of **chitin**, the same compound found in the exoskeleton of insects
+- Can transport **food** and **signaling molecules** across long distances in **mycelia**, driven by changes in **turgor pressure**
+- Differences in turgor pressure along hyphae drive bulk flow (similar to phloem transport)
+  ![Material_Transport](./Material_Transport.png)
+  - Allows hyphae to use materials in nutrient-rich locations to fuel hyphal elongation across nutrient-poor locations
+- In some early-diverging groups, the hyphae have many nuclei but no cell walls to separate them
+- In more advanced groups, nuclear divisions are accompanied by the formation of **septa**, walls partially divide the cytoplasm into separate cells
+
+#### Septa variation
+
+- Plugs are developed to regulate the nutrient flow
+  ![Septa_variation](./Septa_Variation.png)
+
+#### Yeast
+
+- **Yeasts** are single-celled fungi
+- Foundin moist nutrient-rich environments
+- Divide by budding
+  ![Budding_in_Yeast](./Budding_in_Yeast.png)
+- Common on the surface of plants, and to a lesser extent on the surfaces and in the gut of animals
+
+#### Decomposition
+
+- Most fungi use dead organic matter as their source of energy and raw materials
+- Bacteria and some protists can also subsist on dead organic matter but it is mostly fungi that decompose them back to carbon dioxide and water
+
+#### Fungal Infections in Living Tissues
+
+- Plants are vulnerable to a diverse array of fungal pathogens
+  - e.g., rusts, smuts, and molds that cause huge losses in agricultural production
+- Aboveground, infection is transmitted by fungal spores
+- Belowground, infection is transmitted by hyphae that penetrate the root
+
+#### Fungal Infections in Invertebrates
+
+- Insects and other invertebrates are susceptible to fungal pathogens
+
+#### Fungal Infections in Vertebrates
+
+- Rare in vertebrates
+- Severe infections are more frequent among fish and amphibians than in mammals
+
+#### Fungus as a pathogen
+
+- Mucormycosis caused a fungal disease (Mucorales)
+- It is difficult for the fungi to meet the virulence factors
+  ![Virulence_Factors](./Virulence.png)
+
+#### Mutualistic Relationships (Mycorrhizal)
+
+- Mycorrhizal fungi suuply plant roots with nutrients e.g., phosphorus from the soil
+- In return, receives carbohydrates from their host
+- Two main types: **ectomycorrhiza**, **endomycorrhiza**
+  ![Mycorrhizal](./Mycorrhizal.png)
+- Ectomycorrhiza fungi do not penetrate
+- Endomycorrhiza (Arbuscular mycorrhiza) penetrate into the root cells and produce **arbuscules** -> increase surface area for exchange of materials
+
+#### Mutualistic Relationships (Endophytes)
+
+- Fungi called endophytes live within leaves and grow within cell walls and in the spaces between cells -> mutualistic
+- The insects provide the fungi with shelter, food, and protection from predators and pathogens
+- Fungi are used as a food source for the insect
+
+#### Mutualistic Relationships (Lichens)
+
+- **Lichens** are associations between fungi and photosynthetic microorganisms e.g., green algae, cyanobacteria -> mutualistic
+  ![Lichen_Structure](./Lichen_Structure.png)
+- The hyphae anchor the lichen to a rock or tree, aid in the uptake and retention of water and nutrients
+- The photosynthetic partners provide a source of reduced carbon e.g., carbohydrates
+- Cyanobacteria living in lichens provide a source of nitrogen e.g., ammonia
+- Fungi and photosynthetic microorganisms exchange nutrients through fungal hyphae that tightly encircle or event penetrate the walls of the photosynthetic cells
+- Lichens spread asexually by
+  - Fragmentation
+  - The formation of dispersal units consisting of a single photosynthetic cell surrounded by hyphae
+    ![Lichen_Dispersal](./Lichen_Dispersal.png)
+
+### Spore Dispersal
+
+- Fungi face two challenges in completing their life cycles:
+  - Maintaining genetic diversity: must find other individuals to mate with
+  - Dispersal: must be able to disperse from one place to another
+- The probability of any given spore landing on a favourable habitat is low -> produce huge number of spores
+- Spores allow fungi to use resources that are patchy in time and in space
+
+#### Asexual Spore Dispersal
+
+- A moldy pieces of bread reveals that the surface is covered with **hyphae** carrying **sporangia** containing asexual spores
+- In many species, asexual spores are produced within sporangia that form at the ends of erect hyphae, facilitating the release of the spores into the air
+
+![Asexual_Spore_Dispersal](./Asexual_Dispersal.png)
+
+Fruiting bodies
+
+- Some fungi rely on external agents such as raindrops or animals to move their spores around
+
+![Bird_nest_fungus](./Bird's-nest_fungus.png)
+
+#### Fungal Life Cycle
+
+- In most fungi, the sexual phase of the life cycle involves the fusion of hyphal tips rather than specialized reproductive cells, or gametes
+- In fungi, the fusion of haploid cells is not immediately followed by the fusion of their nuclei
+- Haploid nuclei retain their independent identities, resulting in a **heterokaryotic** stage
+- The cytoplasmic union of two cells (**plasmogamy**) is not always followed immediately by the fusion of their nuclei (**karyogamy**)
+  ![Fungal_Life_Cycle](./Fungal_Life_Cycle.png)
+
+#### Parasexual Cycle
+
+- **Parasexual** fungal species lack an observable sexual cycle
+- Use another mechanism of generating genetic diversity
+  - The crossing over of DNA during mitosis
+- The haploid chromosome number is restored not by meiotic division, but by the progressive loss of chromosomes
+- The key difference is that parasexual species do not undergo meiosis
+  ![Parasexual_Cycle](./Parasexual_Cycle.png)
+
+## Fungal Diversity
+
+Core Concept
+
+- Other than animals, fungi are the most diverse group of eukaryotes
+
+Fungal Phylogeny
+![Fungal_Phylogeny](./Fungal_Phylogeny.png)
+
+### Chytrids
+
+- Most chytrids are decomposers
+- A few are pathogens of algae or vascular plants
+- Many chytrids are single cells with walls or chitin
+- Chytrids do not form a true mycelium
+
+### Zygomycetes (Zoopagomycota + Mucoromycota)
+
+#### Zoopagomycota
+
+- Constitutes the earliest zygomycetes
+- Contains species that are primarily parasites and pathogens of small animals and other fungi i.e., mycoparasites
+- _Orphella_:
+  ![Orphella](./Orphella.png)
+
+#### Mucoromycota
+
+- Characterized by plant associations and plant-based ecologies
+  - Mycorrhizae
+  - Root endophytes
+  - Decomposers
+- _Pilobolus_: can forcibly eject the entire sporangium rather than releasing individual spores
+  ![Pilobolus](./Pilobolus.png)
+- Fungal Highway _Mucor_: promote the growth of bacteria, mucorales species impact human beings beneficially through their use in food industry
+- _Glomeromycetes_: a monophyletic group within Mucoromycota
+  - Almost all occur in association with plant roots with tremendous ecological importance
+
+#### Dikarya
+
+- Key feature: every mitotic division is accompanied by the formation of a new septum
+- Allows fungi to control the number of nuclei within each cell
+- Proliferate in the dikaryotic state
+- Contains two monophyletic subgroups:
+
+  - Ascomycetes: meiosis is followed by a single round of mitosis, resulting in **asci** that contain eight haploid dspores
+  - Basidiomycetes: fruiting bodies
+    - Life cycle is similar to that of ascomycetes with some exceptions
+      - fruiting body entirely made up of dikaryotic hyphae
+      - nuclear fusion takes place in a specialized cell called a **basidium**
+      - haploid products of meiosis do not undergo mitosis
+      - **Clamp formation**: ensure that each cell is dikaryotic
+    - Live by forming ectomycorrhizal associations or by decomposing wood and other substrates
+    - The multicellular fruiting bodies produced by some fungi facilitate the dispersal of sexually produced spores
+    - Fruiting bodies are highly ordered and compact structures compared to the mycelia from which they grow
+
+- A novel floral mimicry system by _Fusarium_ fungi
+  ![Furasium](./Fusarium.png)
+- Here, only D is a healthy flower
+
 ## Terminologies
 
 <a id="hypertonic"></a>**hypertonic**: having a lower concentration of solute
