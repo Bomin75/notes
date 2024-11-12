@@ -1,6 +1,9 @@
 +++
 title = '2. Cell Biology and Metabolism'
 draft = false
+toc = true
+math = true
+bold = true
 +++
 
 ## Cell Structure and Components
