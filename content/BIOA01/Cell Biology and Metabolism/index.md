@@ -106,7 +106,7 @@ _Magnaporthe grisea_ and turgor pressure
 ![MagnaportheGrisea](./MagnaportheGrisea.png)
 
 - _M. grisea_ first attach to the leaves
-- Then, synthesize melanin to incrase its turgor pressure
+- Then, synthesize melanin to increase its turgor pressure
 - Use the high turgor pressure to penetrate through host organism
 - Subseuently occupy the host organism
 - Absorb nutrients
@@ -1204,7 +1204,7 @@ Comparison of Mitosis and Meiosis
 
 Core Concepts
 
-1. FUngi are **heterotrophic eukaryotes** that feed by absorption
+1. Fungi are **heterotrophic eukaryotes** that feed by absorption
 2. Fungi reproduces both **sexually and asexually**, and disperse by **spores**
 
 ### Fungi
@@ -1247,7 +1247,7 @@ Hyphal Growth
 
 #### Yeast
 
-- **Yeasts** are single-celled fungi
+- **Yeasts** are single-celled fungi (Ascomycota)
 - Foundin moist nutrient-rich environments
 - Divide by budding
   ![Budding_in_Yeast](./Budding_in_Yeast.png)
@@ -1292,6 +1292,7 @@ Hyphal Growth
 #### Mutualistic Relationships (Endophytes)
 
 - Fungi called endophytes live within leaves and grow within cell walls and in the spaces between cells -> mutualistic
+  ![Endophyte](./Endophyte.png)
 - The insects provide the fungi with shelter, food, and protection from predators and pathogens
 - Fungi are used as a food source for the insect
 
@@ -1318,14 +1319,16 @@ Hyphal Growth
 
 #### Asexual Spore Dispersal
 
-- A moldy pieces of bread reveals that the surface is covered with **hyphae** carrying **sporangia** containing asexual spores
 - In many species, asexual spores are produced within sporangia that form at the ends of erect hyphae, facilitating the release of the spores into the air
+- A moldy pieces of bread reveals that the surface is covered with **hyphae** carrying **sporangia** containing asexual spores
 
 ![Asexual_Spore_Dispersal](./Asexual_Dispersal.png)
 
+#### Sexual Spore Dispersal
+
 Fruiting bodies
 
-- Some fungi rely on external agents such as raindrops or animals to move their spores around
+- Some fungi rely on external agents such as raindrops or animals to move their spores around e.g., Bird's nest fungus
 
 ![Bird_nest_fungus](./Bird's-nest_fungus.png)
 
@@ -1355,12 +1358,15 @@ Core Concept
 Fungal Phylogeny
 ![Fungal_Phylogeny](./Fungal_Phylogeny.png)
 
-### Chytrids
+### Chytrids (Blastocladiomycota + Chytridiomyceta)
+
+![Chytrids](./Chytrids.png)
 
 - Most chytrids are decomposers
 - A few are pathogens of algae or vascular plants
 - Many chytrids are single cells with walls or chitin
 - Chytrids do not form a true mycelium
+- Forms elongated structures rhizoids (not a hyphae)
 
 ### Zygomycetes (Zoopagomycota + Mucoromycota)
 
@@ -1368,7 +1374,9 @@ Fungal Phylogeny
 
 - Constitutes the earliest zygomycetes
 - Contains species that are primarily parasites and pathogens of small animals and other fungi i.e., mycoparasites
-- _Orphella_:
+- _Basidiobolus_ can jump between its hosts
+  ![Basidiobolus](./Basidiobolus.png)
+- _Orphella_: fungus growing on an insect
   ![Orphella](./Orphella.png)
 
 #### Mucoromycota
@@ -1377,6 +1385,8 @@ Fungal Phylogeny
   - Mycorrhizae
   - Root endophytes
   - Decomposers
+- _Rizopus stolonifera_: black bread mold
+  ![RizopusStolonifera](./BlackBreadMold.png)
 - _Pilobolus_: can forcibly eject the entire sporangium rather than releasing individual spores
   ![Pilobolus](./Pilobolus.png)
 - Fungal Highway _Mucor_: promote the growth of bacteria, mucorales species impact human beings beneficially through their use in food industry
@@ -1386,17 +1396,22 @@ Fungal Phylogeny
 #### Dikarya
 
 - Key feature: every mitotic division is accompanied by the formation of a new septum
+- e.g., All edible mushrooms, truffle, yeast, penicillin, blue cheese, cordyceps
+  ![Cordycep](./Cordycep.png)
 - Allows fungi to control the number of nuclei within each cell
 - Proliferate in the dikaryotic state
 - Contains two monophyletic subgroups:
 
-  - Ascomycetes: meiosis is followed by a single round of mitosis, resulting in **asci** that contain eight haploid dspores
+  - Ascomycetes: meiosis is followed by a single round of mitosis, resulting in **asci** that contain eight haploid spores
+    ![Ascus](./Ascus.png)
   - Basidiomycetes: fruiting bodies
     - Life cycle is similar to that of ascomycetes with some exceptions
       - fruiting body entirely made up of dikaryotic hyphae
       - nuclear fusion takes place in a specialized cell called a **basidium**
+        ![Basidiospore](./Basidiospore.png)
       - haploid products of meiosis do not undergo mitosis
       - **Clamp formation**: ensure that each cell is dikaryotic
+        ![BasiodiomyceteClamps](./BasidiomycetesClamps.png)
     - Live by forming ectomycorrhizal associations or by decomposing wood and other substrates
     - The multicellular fruiting bodies produced by some fungi facilitate the dispersal of sexually produced spores
     - Fruiting bodies are highly ordered and compact structures compared to the mycelia from which they grow
