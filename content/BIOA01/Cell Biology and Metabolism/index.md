@@ -210,6 +210,8 @@ Adenosine Triphosphate (ATP)
 - ATP stores potential energy using the bonds connecting the phosphate groups
 - The energy level stored in each bond is different
 - The highest energy bond is at the outer layer
+- ATP is used in cellular activities e.g., antiporter activation
+- ATP is used in organismal activities e.g., muscle contractions
 
 ### Metabolism
 
@@ -220,12 +222,17 @@ Metabolic Classification
 
 Types of Reactions
 
+![Catabolism](./Catabolism.png)
+
 - **Catabolism**: breakdown of a molecule e.g., breakdown of macromolecules (carbs, proteins, fats, nucleic acids) into subunits (sugars, amino acids, fatty acids, nucleotides)
   - Energy is released
-  - ADP -> ATP
+  - ADP -> ATP + H2O
+
+![Anabolism](./Anabolism.png)
+
 - **Anabolism**: construction of a molecule e.g., construction of macromolecules (carbs, proteins, fats, nucleic acids) from subunits (sugars, amino acids, fatty acids, nucleotides)
   - Energy is consumed
-  - ATP -> ADP
+  - ATP + H2O -> ADP
 
 ### Kinetic Energy
 
@@ -239,6 +246,7 @@ Chemical Energy
 
 - A form of potential energy held in the chemical bonds between pairs of atoms in a molecule
 - Strong bonds have less potential energy
+- Weak bonds have more potential energy -> outermost bond of ATP has the highest energy
 
 Packaged Energy
 
@@ -301,27 +309,35 @@ Core Concepts
 - Catabolic reactions + Anabolic reactions
 
 Free Radicals (Reactive Oxygen Species)
+![FreeRadical](./Free_Radical.png)
 
 - Free radicals steal electrons
 - Normal cells get damaged under oxidative stress due to free radicals
 - Consumption of antioxidants can prevent it e.g., Selenium
 - Selenoprotein translation generates proteins with selenocysteine that contain abundant selenium
+  ![Selenoprotein](./Selenoprotein.png)
 
 Gibbs Free Energy ($\Delta G$)
 
 - Energonic reaction: reactions with a positive $\Delta G$, require input of energy
-- Exergonic reaction: reactions with a negative $\Delta G$, release energy
+  ![Endergonic](./Endergonic.png)
+- Exergonic reaction: reactions with a negative $\Delta G$, release energy ![Exergonic](./Exergonic.png)
 
 Energy Available
-$$\text{Total Energy} (H)=\text{energy available to do work} + \text{energy lost to entropy}$$
-$$\Delta G = \Delta H - T\Delta S$$
+$$\text{Total Energy (enthalpy)} (H)=\text{energy available to do work} + \text{energy lost to entropy}$$
+$$\implies \Delta G = \Delta H - T\Delta S$$
+
+- G: Gibbs free energy
+- H: Enthalpy
+- T: Absolute temperature (K)
+- S: Entropy
 
 Gibbs Energy in different reactions
 
 - Catabolic reaction:
-  $$\Delta G \downarrow = \Delta H \downarrow  - T\Delta S \uparrow$$
+  $$\downarrow\Delta G = \Delta H \downarrow  - T\Delta S \uparrow$$
 - Anabolic reaction:
-  $$\Delta G \uparrow = \Delta H \uparrow - T\Delta S \downarrow$$
+  $$\uparrow\Delta G = \Delta H \uparrow - T\Delta S \downarrow$$
 
 ### Energetic Coupling
 
@@ -332,6 +348,7 @@ e.g.,
 Note that the two reactions share $P_i$, resulting in a coupled reaction
 
 ![Energetic_Coupling2](./Energetic_Coupling2.png)
+![Energy_Coupling_Ex2](./EnergyCouplingExample2.png)
 Note that the entire process is still considered spontaneous as the Gibbs free energy is negative after driving the energonic reaction
 
 Intermediate Free Energy
@@ -348,6 +365,8 @@ Rate of a Reaction
 
 Protein catalysts that can increase the rate of biochemical reactions
 
+![Enzyme](./Enzyme.png)
+
 - Enzyme-Catalzed Reactions
   $$\text{Substrate} (S) \leftrightarrow \text{Product} (P)$$
   $$S + \text{Enzyme} (E) \leftrightarrow ES \leftrightarrow EP \leftrightarrow E + P$$
@@ -355,6 +374,7 @@ Protein catalysts that can increase the rate of biochemical reactions
 Enzyme Shape
 
 - **Active site** binds the **substrate** and converts it to the product
+  ![Activesite](./ActiveSiteofEnzyme.png)
 - Interaction between the substrate and the active site **decreases** the **activate energy** required
 
 Active Site Formation
@@ -366,10 +386,12 @@ Activators & Inhibitors
 
 - **Activators**: activate/promote enzyme activities
 - **Inhibitors**:
-  - binds to the active site of the enzyme, competing with the substrate to reduce the rate of reaction
-  - binds to the allosteric site of the **allosteric enzymes** to alter the shape of the enzyme and prevent substrate bindings
+  - Competitive inhibition: inhibitors bind to the active site of the enzyme, competing with the substrate to reduce the rate of reaction
+  - Allosteric inhibition: binds to the allosteric site of the **allosteric enzymes** to alter the shape of the enzyme and prevent substrate bindings
 
 Why are some mushrooms toxic to human beings?
+
+![AmanitaPhalloides](./Amatoxin.png)
 
 - **Amatoxins** are selective inhibitors of RNA polymerase II, which is a vital enzyme in the synthesis of mRNA, microRNA, and snRNA
 
@@ -425,38 +447,38 @@ Stages of Cellular Respiration
 - The oxidized forms of these carriers are NAD+ and FAD
 - The reduced forms of these carriers are NADH and FADH_2
 
-### Glycolysis
+### Glycolysis (Cytoplasm)
 
 The partial oxidation of glucose and results in the production of pyruvate, as well as ATP and reduced electron carriers
 
-Phase 1
+Phase 1: Preparatory phase
 
-- Preparatory phase
 - Consumption of 2 ATP
 - The phosphorylation of glucose traps the molecule inside the cell and de-stabilizes it making it ready for phase 2
 
 ![Glycolysis_phase1](./Glycolysis_Phase1.png)
 
-Phase 2
+Phase 2: Cleavage phase
 
-- Cleavage phase
 - 6-carbon sugar is separated into two 3-carbon molecules
 
 ![Glycolysis_phase2](./Glycolysis_Phase2.png)
 
-Phase 3
+Phase 3: Payoff phase
 
-- Payoff phase
 - Production of 4 ATP and 2 NADH
 
 ![Glycolysis_phase3](./Glycolysis_Phase3.png)
+
+Reactants of Glycolysis
+$$1 Glucose$$
 
 Products of Glycolysis
 $$4 ATP - 2 ATP = 2 ATP \text{ (net gain)}$$
 $$2 NADH$$
 $$2 Pyruvate$$
 
-### Pyruvate Oxidation
+### Pyruvate Oxidation (Mitochondrial Matrix)
 
 Pyruvate is oxidized to acetyle-CoA, connecting glycolysis to the citric acid cycle
 
@@ -464,12 +486,15 @@ Pyruvate is oxidized to acetyle-CoA, connecting glycolysis to the citric acid cy
 - Then converted to acetyle-CoA within the mitochondria
   ![Acetyle-CoA_Synthesis](./Acetyle-CoA_Synthesis.png)
 
-Products of Pyruvate Oxidation
-$$2 \times 1 CO_2$$
-$$2 \times 1 NADH$$
-$$2 \times 1 \text{Acetyle-CoA}$$
+Reactants of Pyruvate Oxidation
+$$2 Pyruvates$$
 
-### Citric Acid Cycle
+Products of Pyruvate Oxidation
+$$2 \times 1 CO_2=2CO_2$$
+$$2 \times 1 NADH=2NADH$$
+$$2 \times 1 \text{Acetyle-CoA}=2\text{Acetyle-CoA}$$
+
+### Citric Acid Cycle (Mitochondrial Matrix)
 
 Results in the complete oxidation of fuel molecules and the generation of ATP and reduced electron carriers
 
@@ -477,14 +502,18 @@ Results in the complete oxidation of fuel molecules and the generation of ATP an
 - Takes place in mitochondrial matrix
 - Fuel molecules are completely oxidiezed in this stage
 
+Reactants of Citric Acid Cycle
+
+$$2 \text{Acetyle-CoA}$$
+
 Products of Citric Acid Cycle
 
-$$2 \times 1 ATP$$
-$$2 \times 3 NADH$$
-$$2 \times 1 FADH_2$$
-$$2 \times 2 CO_2$$
+$$2 \times 1 ATP=2ATP$$
+$$2 \times 3 NADH = 6NADH$$
+$$2 \times 1 FADH_2=2FADH_2$$
+$$2 \times 2 CO_2=4CO_2$$
 
-### Electron Transport Chain
+### Electron Transport Chain (Mitochondrial Matrix & Intermembrane Space)
 
 Transfers electrons from electron carriers to oxygen, using the energy released to pump protons and synthesize ATP by oxidative phosphorylation
 
@@ -494,9 +523,14 @@ Transfers electrons from electron carriers to oxygen, using the energy released 
 Electron transport
 ![ETC1](./ETC1.png)
 
+- Coenyzme is reduced to CoQH2 and transfers electrons from **complex I and II** to **complex III**
+- **Oxygen** acts as a **final electron acceptor**
+- 2 Water molecules are produced per 4 electrons from **complex IV**
+
 Proton transport and ATP synthesis
 ![ETC2](./ETC2.png)
 
+- Transport of electrons in **Complex I, III, and IV** is coupled with the transport of protons to the **intermembrane space**
 - The proton gradient has two components
   - A chemical gradient resulting from the different concentration of hydrogen ions
   - An electrical radient resulting from the difference in charge between the two sides
@@ -505,6 +539,7 @@ ATP Synthase
 
 ![ATP_Synthase](./ATP_Synthase.png)
 
+- Utilizes the electrochemical proton gradient for ATP synthesis
 - The rotation of the $F_0$ subunit -> roation of the $F_1$ subunit
 - The rotation of the $F_1$ subunit -> conformational changes that allow it to catalyze the synthesis of ATP
 
@@ -518,9 +553,13 @@ Core Concepts
 
 The Flow of Energy in Cellular Respiration
 
+![ATPYield](./ATPYieldCellularResp.png)
+
 - 4 ATP produced by substrate-level phosphorylation per glucose
 - Some energy transferred to 10 NADH and 2 FADH2 per glucose
 - ATP Synthase converts the gradient to rotational energy to produce 28 ATP per glucose
+  $$2.5 \times 10 NADH = 25ATP$$
+  $$1.5 \times 2 FADH_2 = 3ATP$$
 
 ### Anaerobic Metabolism
 
@@ -535,7 +574,7 @@ The Flow of Energy in Cellular Respiration
 
 Lactic acid Fermentation
 
-- Occur in anaerobic bacteria
+- Occur in **anaerobic bacteria**
 - 2 Pyruvate is produced through glycolysis per glucose
 - 2 Pyruvate is reduced to 2 lactic acid
 - 2 NADH is oxidized to 2 NAD+
@@ -544,9 +583,14 @@ Lactic acid Fermentation
 - e.g., production of yakult
   ![Lactate_Fermentation_Example](./Lactic_Acid_Fermentation_Example.png)
 
+Products of Lactic acid Fermentation
+$$2 ATP$$
+$$2 NAD^+$$
+$$2 Lactate$$
+
 Ethanol Fermentation
 
-- Occur in yeast
+- Occur in **yeast**
 - 2 Pyruvate is produced through glycolysis per glucose
 - 2 Pyruvate lose 2 CO2 and form 2 Acetaldehyde
 - 2 Acetaldehyde is reduced to 2 ethanol
@@ -554,6 +598,12 @@ Ethanol Fermentation
 - 2 NAD+ is reused to produce 2 ATP in glycolysis
   ![Ethanol_Fermentation](./Ethanol_Fermentation.png)
 - e.g., wine, beers, bread
+
+Products of Ethanol Fermentation
+$$2 ATP$$
+$$2 NAD^+$$
+$$2 CO_2$$
+$$2 Ethanol$$
 
 Rising Levels of Atmospheric Oxygen
 
@@ -566,6 +616,8 @@ Rising Levels of Atmospheric Oxygen
 - Metabolic pathways are integrated, allowing control of the energy level of cells
 
 Glycogen Storage
+
+![Glycogen](./GlycogenvsStarch.png)
 
 - Glycogen has a core protein
 - A core protein is surrounded by branches of glucose units
@@ -598,12 +650,15 @@ Evolution of Mitochondria
 
 Hydrogenosomes in Anaerobic Fungi
 
-- Hydrogenosomes are H2-producing mitochondrial homologs found in some anaerobic microbial eukarytoes
+- **Hydrogenosomes** are H2-producing mitochondrial homologs found in some **anaerobic microbial eukarytoes**
 - Hydrogenosomes (H) are small (~0.5 um diameter)
 - Spherical or variously elongate organelles
 
 Regulation of Cellular Respiration
 ![Regulation_of_Cellular_Respiration](./Reguation_of_Cellular_Respiration.png)
+
+- High ADP, NAD+: Low energy state -> stimulate cellular resp.
+- High ATP, NADH: High energy state -> inhibit cellular resp.
 
 ## Photosynthesis I
 
@@ -624,14 +679,16 @@ Energy in Biological Systems
 Survival in Diverse Environment
 
 - In desert, photosynthesis bacteria and unicellular algae form an easily disturbed layor on the surface (**desert crust**)
+  ![DesertCrust](./DesertCrust.png)
+- **Cyanobacteria** lives in the top layer of the surface supporting the other micro organisms underneath through photosynthesis
   ![Photosynthetic_Microbe_Distribution](./Photosynthetic_Microbe_Distribution.png)
-- Some live in extreme environment e.g., hot spring, glacier
+- Some photosynthetic microbes (e.g., Cab. thermophilum PscA) live in extreme environment e.g., hot spring, glacier
 
 Uncommon Photosynthetic Players
 
 - _Nostoc sp._: example of a symbiosis
   ![Nostoc](./Nostoc.png)
-- _Geosiphon pyriforme_
+- Fungi, _Geosiphon pyriforme_ traps _Nostoc sp._ to photosynthesize
   ![G.pyriforme](./Geosiphon_pyriforme.png)
 - Lichen: fungi + algae/cyanobacteria
   - Multiple fungal elements can be involved
@@ -640,7 +697,7 @@ Uncommon Photosynthetic Players
 General Equation for Photosynthesis
 $$CO_2 + H_2O \rightarrow C_6H_{12}O_6 + O_2$$
 
-- Type of a reaction
+- Type of a redox reaction
 - Oxidation of water is linked with the reduction of carbon dioxide
 - Series of redox reaction to oxidize water make up the **photosynthetic electron transport chain**
 
@@ -650,11 +707,15 @@ Photosystem
 - Absorbed light is used to drive redox reactions
 - The movement of electrons through the chain is used to drive the synthesis of ATP and NADPH
 - ATP and NADPH are the energy sources required for Calvin cycle
+  ![Photosynthesis](./Photosynthesis.png)
 
 The Chloroplast
 
 - Thylakoid membranes form structures that resemble flattened sacs, grouped into grana
   ![Chloroplast](./Chloroplast.png)
+
+![Photosynthesis2](./Photosynthesis2.png)
+![PhotoandCellResp](./PhotosynthesisAndCellularResp.png)
 
 Cellular Respiration vs. Photosynthesis
 
@@ -667,6 +728,8 @@ Cellular Respiration vs. Photosynthesis
 
 - a three-step process that synthesizes carbohydrates from carbon dioxide
 
+![CalvinCycle](./CalvinCycle.png)
+
 Three steps
 
 1. Carboxylation: addition of CO2 to the 5-carbon compound, RuBP (done by **rubisco**)
@@ -677,10 +740,11 @@ Three steps
 
 - **NADPH** is the reducing agent
 - The reduction of 3-PGA requires ATP and NADPH
+- One 3C molecule exists (G3P)
 
 3. Regeneration of RuBP: 3-carbon compounds are reorganized and combined to produce RuBP
 
-- $$5\times 3C \rightarrow 3 \times 5C$$
+- $$5\times 3C (\text{triose phosphate}) \rightarrow 3 \times 5C (\text{RuBP})$$
 
 Energy Storage
 
@@ -703,12 +767,24 @@ Chlorophyll Light Absorption
 - Chlorophyll molecules are bound by their tail region to integral membrane proteins in the thylakoid membrane
 - Hydrocarbon tail anchors the chlorophyll to cell
   ![Hydrocarbon_tail](./Hydrocarbon_Tail_of_Chlorophyll.png)
-- Light energy is absorbed through chlorophyll in an electorns and sent to reaction center
+- Light energy is absorbed by the photosystems
+- Reaction center in the **Photosystem II** is reduced by the **electrons from water**
+- Reaction center in the **Photosystem I** is reduced by the Ferredoxin
+- **Antenna chlorophylls** (e.g., chlorophyll b) and accessory pigments (e.g., carotenoid) absorbs and transfers light to the reaction center
+  ![LightAbsoprtion](./LightAbsorption.png)
+  ![ChlorophyllAbsorption](./ChlorophyllLightAbsorption.png)
+  - Pigments other than chlorophyll are called **accessory pigments**
+    ![AccessoryPigments](./AccessoryPigments.png)
+- **Reaction center** (e.g., chlorophyll a) with the excited electron reduces the **primary electron acceptor**
 
 Reaction Center
 
-- Possess distinct configuration
+![ElectronFlowInReactionCenter](./ElectronInReactionCenter.png)
+
+- Chlorophyll with distinct configuration
 - Transfer energy to the electron acceptor
+
+![LightDependent](./LightDependentReactions.png)
 
 ## Photosynthesis II
 
@@ -741,7 +817,9 @@ Proton Accumulation
 Cyclic Electron Transport
 
 - To increase ATP production, electrons are shunted into an alternative pathway via **ferredoxin** (Fd)
-- Result in pumping more protons
+- Fd transfers electrons to Pq, Pq transfers electrons to Cyt, Cyt pumps protons
+- Result in more accumulation of protons in **lumen**
+- Increase in ATP, but decrease in NADPH
   ![Cyclic_ETC](./Cyclic_ETC.png)
 
 #### Photosynthesis Challenge I: excess light energy
@@ -757,10 +835,11 @@ Reactive Oxygen Species
 - NADP+ is in short supply
 - -> Either the absorbed light energy or the energy associated electron can be transferred to O2
 - -> Formation of ROS
-- Antioxidants can neutralize ROS
-- Xanthophylls can slow the formation of ROS
-  - By reducing excess light energy
-  - Yellow-orange pigmenst
+- Mitigation stratiegies:
+  - **Antioxidants** can detoxify ROS
+  - **Xanthophylls** can slow the formation of ROS
+    - By reducing excess light energy
+    - Yellow-orange pigments in the photosystems
 
 ![Solution1](./Photosynthesis_Solution_1.png)
 
@@ -819,8 +898,8 @@ HGT between Eukaryotes
 - HGT of Carotenoid genes from fungi to Aphids
 - HGT of ubiquitine genes from insects to fungi
 
-Note: ghost plant cannto photosynthesize -> steal from fungi
-Note: red maple leaves still can perform photosynthesis through other yellow/brown coloured pigments
+Note: ghost plant cannt photosynthesize -> steal carbon source from mycorrhizal fungi
+Note: red maple leaves still can perform photosynthesis through other yellow/brown coloured pigments e.g., carotenoid (in cold weather, separation happens and leaves recieve less nutrition -> not enough to synthesize chlorophylls)
 
 ## Cell Cycle
 
@@ -845,7 +924,7 @@ Core Concepts
 
 #### Prokaryotes
 
-Binary Fission
+Binary Fission: asexual reproduction
 
 1. The circular bacterial DNA molecule is attached by proteins to the inner membrane
 2. DNA replication begins at a specific location and proceeds bidirectionally around the circle
@@ -895,6 +974,7 @@ Centromeres/Chromatids
 ### Mitotic Cell Division
 
 - The basis of asexual reproduction in unicellular eukaryotes and the process by which cells divide in multicellular eukaryotes
+  ![Mitosis](./Mitosis.png)
 
 #### Prophase
 
@@ -935,10 +1015,11 @@ Centromeres/Chromatids
 - Results in four daughter cells
 - Each daughter cell contains a half number of chromosomes as in the parent cell
 - Each daughter cell is genetically unique
+  ![MeioticDivision](./MeioticDivision.png)
 
 #### Meiosis I
 
-- **Reductional division** as the number of chromosomes in daughter cells are reduced by half
+- **Reductional division** as the number of chromosomes in daughter cells are reduced by half (2n -> n)
 - the centromeres do not split during this stage of meiosis
 
 #### Prophase I
@@ -981,7 +1062,7 @@ Centromeres/Chromatids
 
 - The process resembles mitosis except phrophase II (have haploid, not diploid)
 - No DNA synthesis between two meiotic divisions
-- Meiosis II is called **equational division** because cells in meiosis II have the same number of chromosomes in the beginning and in the end
+- Meiosis II is called **equational division** (n -> n) because cells in meiosis II have the same number of chromosomes in the beginning and in the end
 
 Mitosis vs. Meiosis
 
@@ -1034,18 +1115,21 @@ Regulation
 - The proteins that appear and disappear cyclically are called **cyclins**
   ![Cyclins](./cyclins.png)
 - Enzymes activated by cyclins are called **cyclin-dependent kinases (CDK)**
-- Once the CDK are activated by cyclins, cell division is promoted
+- Once the CDK are activated by cyclins, target proteins are phosphorylated by the cyclin-CDK complexes
+- Cell division is promoted by the phosphorylated target proteins
 
 Cyclin level through the Cell Cycle
 ![Cycline_Level](./Cyclin_Level.png)
 
 Cyclin-CDK Complexes
 
-- Cyciln D and E -CDK are actie at the end of G1
+- Cyciln D-CDK and E-CDK (at the end of G1)
+  - Prepare the cell for DNA replication
   - Promotes the expression of histone proteins
-- Cyclin A-CDK is involved in the initiation of DNA synthesis
-  - Prevents the reassembling of the same proteins and re-replicating the same DNA
-- Cycling B-CDK, initiates multiple events associated with mitosis
+- Cyclin A-CDK is involved in the initiation of DNA synthesis (throughout S)
+  - Prevents the reassembling of the same proteins
+  - Prevents the re-replicating of the same DNA
+- Cycling B-CDK, initiates multiple events associated with mitosis (throughout M)
   - Breakdown of the nuclear envelope during prophase
   - Formation of mitotic spindles
     ![Cyclin_Levels_per_phase](./Cyclin_level_per_phase.png)
@@ -1056,7 +1140,7 @@ Checkpoints
 DNA Damage Checkpoints
 ![DNA_Damage_Checkpoints](./DNA_Damage_Checkpoint.png)
 
-- This arrests the cell at the G1/S transition, giving the cell time to repair the DNA damange
+- This arrests the cell at the G1/S transition, giving the cell time to repair the DNA damage
 
 ### Cancer
 
@@ -1093,14 +1177,18 @@ Types of Cancer Treatment
 - Immunotherapy
 - Note that cancer is difficult to treat as it begins from healthy cells -> challenge is to selectively kill the affected cells
 
-Fungus, Cordycepin, NUC-7738
+Cordyceps fungus, Cordycepin, NUC-7738
 
-- Cordycepin inhibits DEK
+- Cordycepin from Cordyceps inhibits DEK in the cancer cell
 
 Medicinal mushroms
 
 - The Jack-o-Lantern fungus is bioluminescent (the glow "foxfire")
 - Poisonous but the source of a new cancer drug in clinical trials
+
+Restriction of Isoleucine
+
+- Dietary restriction of isoleucine decreased cancer rate
 
 CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats)
 
@@ -1194,7 +1282,7 @@ Hyphal Growth
 
 #### Mutualistic Relationships (Mycorrhizal)
 
-- Mycorrhizal fungi suuply plant roots with nutrients e.g., phosphorus from the soil
+- Mycorrhizal fungi supply plant roots with nutrients e.g., phosphorus from the soil
 - In return, receives carbohydrates from their host
 - Two main types: **ectomycorrhiza**, **endomycorrhiza**
   ![Mycorrhizal](./Mycorrhizal.png)
